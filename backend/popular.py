@@ -41,22 +41,26 @@ def pega_dados_itens():
             response = requests.get(url)
             response = response.json()
 
-            for char in chars:
-                if char in response['name']:
-                    error += char
+            if response['status'] != "nok":
+                for char in chars:
+                    if char in response['name']:
+                        error += char
 
-            if error == "":
-                data = {"idItem": response['id'], "nome": response['name']}
-                data = json.dumps(data)
-                with open("db\\itens.json", "a+") as f:
-                    f.write(f"{data},\n")
-                    print(f"{response['name']} salvo no json")
+                if error == "":
+                    data = {"idItem": response['id'], "nome": response['name']}
+                    data = json.dumps(data)
+                    with open("db\\itens.json", "a+") as f:
+                        f.write(f"{data},\n")
+                        print(f"{response['name']} salvo no json")
+                else:
+                    print(f"Erro com letras estranhas {error}")
+                error = ""
             else:
-                print(f"Erro com letras estranhas {error}")
-            error = ""
+                print("Problema na requisicao com o servidor")
+                exit()
         except Exception as e:
-            print(f"Erro {e}")
-        time.sleep(1)
+            print(f"Erro {e} - pega_dados")
+        time.sleep(3)
 
     with open("db\\itens.json", "a+") as f:
         f.write(f"]")
@@ -72,13 +76,12 @@ def popular_itens():
                     sql_insert, (None, item['idItem'], item['nome']))
                 conexao.commit()
             except Exception as e:
-                print(e)
+                print(f"Erro {e} - popula_itens")
 
 
 def main():
     print("Populando classes")
     popular_classes()
-
 
     if not os.path.exists("db\\itens.json"):
         print("Pegando dados de itens")
