@@ -1,0 +1,12 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "migrate":"python manage.py makemigrations itens classes && python manage.py migrate",
+    "superuser":"python manage.py createsuperuser",
+    "dev":"python manage.py runserver"
+  },
+  "author": "Richardson Christian",
+  "license": "ISC"
+}
