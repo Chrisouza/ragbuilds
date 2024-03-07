@@ -1,0 +1,9 @@
+---------------------------------------
+-------- API DOS DADOS DO GAME --------
+---------------------------------------
+
+--- URL_BASE ---
+https://www.divine-pride.net/api/api/database/Item/:id?apiKey=:apiKey
+
+--- ITENS ---
+/api/database/Item/:id?apiKey=:apiKey&server=:server

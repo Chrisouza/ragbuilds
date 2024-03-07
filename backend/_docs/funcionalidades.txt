@@ -1,0 +1,6 @@
+FUNCIONALIDADES
+- Cria / Editar / Excluir build
+- Dar like/deslike na build
+- Comentar na build
+- Compartilhar build zap/face/telegram/...
+- Ver item na loja (ragstore)
