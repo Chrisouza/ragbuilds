@@ -1,0 +1,362 @@
+{
+    "novice_job": [
+        {
+            "id": 0,
+            "name_en": "Novice"
+        }
+    ],
+    "first_job": [
+        {
+            "id": 1,
+            "name_en": "Swordman"
+        },
+        {
+            "id": 2,
+            "name_en": "Magician"
+        },
+        {
+            "id": 3,
+            "name_en": "Archer"
+        },
+        {
+            "id": 4,
+            "name_en": "Acolyte"
+        },
+        {
+            "id": 5,
+            "name_en": "Merchant"
+        },
+        {
+            "id": 6,
+            "name_en": "Thief"
+        }
+    ],
+    "second_job": [
+        {
+            "id": 7,
+            "name_en": "Knight"
+        },
+        {
+            "id": 14,
+            "name_en": "Crusader"
+        },
+        {
+            "id": 9,
+            "name_en": "Wizard"
+        },
+        {
+            "id": 16,
+            "name_en": "Sage"
+        },
+        {
+            "id": 11,
+            "name_en": "Hunter"
+        },
+        {
+            "id": 19,
+            "name_en": "Bard"
+        },
+        {
+            "id": 20,
+            "name_en": "Dancer"
+        },
+        {
+            "id": 8,
+            "name_en": "Priest"
+        },
+        {
+            "id": 15,
+            "name_en": "Monk"
+        },
+        {
+            "id": 10,
+            "name_en": "Blacksmith"
+        },
+        {
+            "id": 18,
+            "name_en": "Alchemist"
+        },
+        {
+            "id": 12,
+            "name_en": "Assassin"
+        },
+        {
+            "id": 17,
+            "name_en": "Rogue"
+        }
+    ],
+    "transcendence_job": [
+        {
+            "id": 4008,
+            "name_en": "Lord Knight"
+        },
+        {
+            "id": 4015,
+            "name_en": "Paladin"
+        },
+        {
+            "id": 4010,
+            "name_en": "High Wizard"
+        },
+        {
+            "id": 4017,
+            "name_en": "Professor"
+        },
+        {
+            "id": 4012,
+            "name_en": "Sniper"
+        },
+        {
+            "id": 4020,
+            "name_en": "Clown"
+        },
+        {
+            "id": 4021,
+            "name_en": "Gypsy"
+        },
+        {
+            "id": 4009,
+            "name_en": "High Priest"
+        },
+        {
+            "id": 4016,
+            "name_en": "Champion"
+        },
+        {
+            "id": 4011,
+            "name_en": "Whitesmith"
+        },
+        {
+            "id": 4019,
+            "name_en": "Creator"
+        },
+        {
+            "id": 4013,
+            "name_en": "Assassin Cross"
+        },
+        {
+            "id": 4018,
+            "name_en": "Stalker"
+        }
+    ],
+    "third_job": [
+        {
+            "id": 4060,
+            "name_en": "Rune Knight"
+        },
+        {
+            "id": 4066,
+            "name_en": "Royal Guard"
+        },
+        {
+            "id": 4061,
+            "name_en": "Warlock"
+        },
+        {
+            "id": 4067,
+            "name_en": "Sorcerer"
+        },
+        {
+            "id": 4062,
+            "name_en": "Ranger"
+        },
+        {
+            "id": 4068,
+            "name_en": "Minstrel"
+        },
+        {
+            "id": 4069,
+            "name_en": "Wanderer"
+        },
+        {
+            "id": 4063,
+            "name_en": "Arch Bishop"
+        },
+        {
+            "id": 4070,
+            "name_en": "Sura"
+        },
+        {
+            "id": 4064,
+            "name_en": "Mechanic"
+        },
+        {
+            "id": 4071,
+            "name_en": "Genetic"
+        },
+        {
+            "id": 4065,
+            "name_en": "Guillotine Cross"
+        },
+        {
+            "id": 4072,
+            "name_en": "Shadow Chaser"
+        }
+    ],
+    "fourth_job": [
+        {
+            "id": 4252,
+            "name_en": "Dragon Knight"
+        },
+        {
+            "id": 4258,
+            "name_en": "Imperial Guard"
+        },
+        {
+            "id": 4255,
+            "name_en": "Arch Mage"
+        },
+        {
+            "id": 4261,
+            "name_en": "Elemental Master"
+        },
+        {
+            "id": 4257,
+            "name_en": "Windhawk"
+        },
+        {
+            "id": 4263,
+            "name_en": "Troubadour"
+        },
+        {
+            "id": 4264,
+            "name_en": "Trouvere"
+        },
+        {
+            "id": 4256,
+            "name_en": "Cardinal"
+        },
+        {
+            "id": 4262,
+            "name_en": "Inquisitor"
+        },
+        {
+            "id": 4253,
+            "name_en": "Meister"
+        },
+        {
+            "id": 4259,
+            "name_en": "Biolo"
+        },
+        {
+            "id": 4254,
+            "name_en": "Shadow Cross"
+        },
+        {
+            "id": 4260,
+            "name_en": "Abyss Chaser"
+        }
+    ],
+    "expanded_first_job": [
+        {
+            "id": 4046,
+            "name_en": "Taekwon"
+        },
+        {
+            "id": 25,
+            "name_en": "Ninja"
+        },
+        {
+            "id": 24,
+            "name_en": "Gunslinger"
+        },
+        {
+            "id": 23,
+            "name_en": "Super Novice"
+        },
+        {
+            "id": 4218,
+            "name_en": "Summoner"
+        }
+    ],
+    "expanded_second_job": [
+        {
+            "id": 4047,
+            "name_en": "Star Gladiator"
+        },
+        {
+            "id": 4049,
+            "name_en": "Soul Linker"
+        }
+    ],
+    "expanded_third_job": [
+        {
+            "id": 4239,
+            "name_en": "Star Emperor"
+        },
+        {
+            "id": 4240,
+            "name_en": "Soul Reaper"
+        },
+        {
+            "id": 4211,
+            "name_en": "Kagerou"
+        },
+        {
+            "id": 4212,
+            "name_en": "Oboro"
+        },
+        {
+            "id": 4215,
+            "name_en": "Rebellion"
+        },
+        {
+            "id": 4190,
+            "name_en": "Ex. Super Novice"
+        }
+    ],
+    "expanded_fourth_job": [
+        {
+            "id": 4302,
+            "name_en": "JT_SKY_EMPEROR"
+        },
+        {
+            "id": 4303,
+            "name_en": "JT_SOUL_ASCETIC"
+        },
+        {
+            "id": 4304,
+            "name_en": "JT_SHINKIRO"
+        },
+        {
+            "id": 4305,
+            "name_en": "JT_SHIRANUI"
+        },
+        {
+            "id": 4306,
+            "name_en": "JT_NIGHT_WATCH"
+        },
+        {
+            "id": 4307,
+            "name_en": "JT_HYPER_NOVICE"
+        },
+        {
+            "id": 4308,
+            "name_en": "JT_SPIRIT_HANDLER"
+        },
+        {
+            "id": 22,
+            "name_en": "Wedding"
+        },
+        {
+            "id": 26,
+            "name_en": "Christmas"
+        },
+        {
+            "id": 27,
+            "name_en": "Summer"
+        },
+        {
+            "id": 30,
+            "name_en": "Summer"
+        },
+        {
+            "id": 28,
+            "name_en": "Hanbok"
+        },
+        {
+            "id": 29,
+            "name_en": "Oktoberfest"
+        }
+    ]
+}
