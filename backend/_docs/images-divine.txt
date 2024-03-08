@@ -1,0 +1,5 @@
+--- itens ---
+<img src="https://www.divine-pride.net/img/items/item/bRO/'.$item_id.'" class="ingame-item" height="24px" '.$append.' loading="lazy">
+
+--- classes ---
+https://ik.imagekit.io/g9rjw1x4xiv/RagStores/assets/costume/job/icon_jobs_'.$value['id'].'.png
