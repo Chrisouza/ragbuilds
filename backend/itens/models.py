@@ -7,6 +7,9 @@ class Itens(models.Model):
     descricao = models.TextField(default="")
     tipo = models.CharField(max_length=255, default="")
 
+    def __str__(self) -> str:
+        return self.nome
+
     class Meta:
         db_table = "itens"
         verbose_name = "item"
