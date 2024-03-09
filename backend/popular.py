@@ -1,98 +1,60 @@
 import json
-import os
-import requests
-import time
 import sqlite3
+import csv
 
 
 conexao = sqlite3.connect("db\\db.sqlite3")
 cur = conexao.cursor()
 
 
-def popular_classes():
-    with open("db\\classes.json") as f:
-        data = json.load(f)
-        for classe in data:
+def openJSON(path):
+    with open(path, "r") as f:
+        return json.load(f)
+
+
+def popularClasses():
+    classes = openJSON(path="db\\job.json")
+    for level in classes:
+        for classe in classes[level]:
+            idClasse = int(classe['id'])
+            nome = classe['name_en']
+            img_path = classe['img_path']
             try:
-                sql_verifica = f"SELECT * FROM classes WHERE nome='{
-                    classe['nome']}'"
-                verifica = cur.execute(sql_verifica)
-                sql_insert = "INSERT INTO classes VALUES (?, ?)"
-                cur.execute(sql_insert, (None, classe['nome']))
+                cur.execute("INSERT INTO classes VALUES (?, ?, ?, ?)",
+                            (None, idClasse, nome, img_path))
                 conexao.commit()
-            except:
-                pass
-
-
-def pega_dados_itens():
-    chars = ["¶", "¸", "£", "½", "º", "°", "©", "¿",
-             "Ê", 'Ç', 'û', '³', 'ª', 'Ò', 'Ä', '«', '°', '©']
-    error = ""
-    apiKey = os.environ.get('API_KEY')
-    start, max = (501, 16685)
-
-    with open("db\\itens.json", "w") as f:
-        f.write(f"[\n")
-
-    for i in range(start, max):
-        try:
-            url = "https://www.divine-pride.net/api/database/Item/"
-            url += f"{i}?apiKey={apiKey}&server=bRO"
-            response = requests.get(url)
-            response = response.json()
-
-            if response['status'] != "nok":
-                for char in chars:
-                    if char in response['name']:
-                        error += char
-
-                if error == "":
-                    data = {"idItem": response['id'], "nome": response['name']}
-                    data = json.dumps(data)
-                    with open("db\\itens.json", "a+") as f:
-                        f.write(f"{data},\n")
-                        print(f"{response['name']} salvo no json")
-                else:
-                    print(f"Erro com letras estranhas {error}")
-                error = ""
-            else:
-                print("Problema na requisicao com o servidor")
-                exit()
-        except Exception as e:
-            print(f"Erro {e} - pega_dados")
-        time.sleep(3)
-
-    with open("db\\itens.json", "a+") as f:
-        f.write(f"]")
-
-
-def popular_itens():
-    with open("db\\itens.json") as f:
-        data = json.load(f)
-        for item in data:
-            try:
-                sql_insert = "INSERT INTO itens VALUES (?,?,?)"
-                cur.execute(
-                    sql_insert, (None, item['idItem'], item['nome']))
-                conexao.commit()
+                print(f"{classe['name_en']} salvo no banco")
             except Exception as e:
-                print(f"Erro {e} - popula_itens")
+                pass
+                # print(e)
 
 
-def main():
-    print("Populando classes")
-    popular_classes()
+def popularItens():
+    arquivos = ["acessorio.csv", "arma.csv", "calcado.csv",
+                "capa.csv", "cabeca.csv", "escudo.csv", "sombrio.csv"]
+    tipos = [
+        {"id": 1, "nome": "arma"},
+        {"id": 2, "nome": "armadura"},
+        {"id": 10, "nome": "sombrio"}
+    ]
+    for arquivo in arquivos:
+        with open(f"db\\{arquivo}", "r", encoding="utf8") as f:
+            data = csv.reader(f)
+            next(f)
+            for row in data:
+                try:
+                    idItem = row[0]
+                    nome = row[1]
+                    tipo = [tipo['nome']
+                            for tipo in tipos if str(row[2]) == str(tipo['id'])][0]
+                    descricao = row[5]
+                    cur.execute("INSERT INTO itens VALUES (?,?,?,?,?)",
+                                (None, idItem, nome, tipo, descricao))
+                    conexao.commit()
+                    print(f"Item {nome} salvo")
+                except Exception as e:
+                    pass
 
-    if not os.path.exists("db\\itens.json"):
-        print("Pegando dados de itens")
-        pega_dados_itens()
 
-    input("Aguardando corrigir json")
-
-    print("Populando itens")
-    popular_itens()
-
-
-if __name__ == "__main__":
-    main()
-#
+popularClasses()
+popularItens()
