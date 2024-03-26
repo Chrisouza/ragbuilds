@@ -1,0 +1,6042 @@
+[
+  {
+    "id": 2207,
+    "name": "Florzinha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 2226,
+    "name": "Barrete",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 2227,
+    "name": "Barrete [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 2249,
+    "name": "Coroa Menor",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 2254,
+    "name": "Asas de Anjo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 2255,
+    "name": "Asas de Demônio",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 2277,
+    "name": "Chapéu de Enfermeira",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 2282,
+    "name": "Auréola",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 2283,
+    "name": "Aquecedor de Orelha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 2285,
+    "name": "Maçã de Guilherme Tell",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 2292,
+    "name": "Máscara de Solda",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 2299,
+    "name": "Capacete de Orc",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5007,
+    "name": "Coroa do Líder",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5022,
+    "name": "Coroa do Deus-Sol",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5032,
+    "name": "Chapéu de Verão",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5033,
+    "name": "Chapéu de Fumacento",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5054,
+    "name": "Cabelo de Pipoca",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5070,
+    "name": "Faixa de Caratê",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5084,
+    "name": "Chapéu de Fumacento Dorminhoco",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5104,
+    "name": "Venda Sombria",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 5111,
+    "name": "Chapéu Galápago",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5116,
+    "name": "Chapéu de Banana",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5121,
+    "name": "Máscara de Jirtas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5122,
+    "name": "Chapéu de Magni",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5123,
+    "name": "Chapéu de Ulle [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5124,
+    "name": "Diadema de Fricca",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5125,
+    "name": "Beijo do Anjo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": ""
+  },
+  {
+    "id": 5126,
+    "name": "Capuz de Morpheus",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5127,
+    "name": "Elmo de Morrigane",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5128,
+    "name": "Elmo de Goibne",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5129,
+    "name": "Ninho Abandonado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5137,
+    "name": "Boneca de Alice [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5146,
+    "name": "Chapéu de Elefante",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5169,
+    "name": "Máscara de Noiva [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5170,
+    "name": "Boina Alada",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5171,
+    "name": "Elmo das Valquírias [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5172,
+    "name": "Boina",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5173,
+    "name": "Chapéu de Magistrado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5174,
+    "name": "Ayam [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5175,
+    "name": "Faixa de Censura",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 5176,
+    "name": "Máscara Hahoe",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 5177,
+    "name": "Máscara Mítica de Leão [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5187,
+    "name": "Lacinhos Floridos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5208,
+    "name": "Chapéu de Rideword [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5212,
+    "name": "Chapéu de Satélite [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": ""
+  },
+  {
+    "id": 5225,
+    "name": "Chapéu de Parada [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5227,
+    "name": "Chapéu de Deviruchi Vermelho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5228,
+    "name": "Chapéu de Deviruchi Branco",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5229,
+    "name": "Chapéu de Deviruchi Cinza",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5238,
+    "name": "Mestre Arcano Vermelho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5239,
+    "name": "Mestre Arcano Branco",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5240,
+    "name": "Mestre Arcano Cinza",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5241,
+    "name": "Mestre Arcano Azul",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5242,
+    "name": "Mestre Arcano Amarelo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5253,
+    "name": "Boneca de Lif [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5254,
+    "name": "Chapéu de Deviling [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5274,
+    "name": "Peruca Carnavalesca Brilhante",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5277,
+    "name": "Bandana de Mecânico",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5286,
+    "name": "Asas de PecoPeco",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5289,
+    "name": "Chapéu de Vanilmirth",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5304,
+    "name": "Capuz da Escuridão [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 5324,
+    "name": "Boneca da Lady Solace",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5325,
+    "name": "Olhos Biônicos",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": ""
+  },
+  {
+    "id": 5333,
+    "name": "Antena de Rádio",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5340,
+    "name": "Boneca de Denise [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5341,
+    "name": "Boneca de Sofia [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5342,
+    "name": "Boneca de Marianne [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5343,
+    "name": "Boneca de Tatiana [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5344,
+    "name": "Boneca de Bianca [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5345,
+    "name": "Boneca de Deborah [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5353,
+    "name": "Coroa do Deus-Sol [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5359,
+    "name": "Chapéu do Capitão [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5365,
+    "name": "Chapéu de Magnólia [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5366,
+    "name": "Bandana do Papai",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5367,
+    "name": "Chapéu de Yao Jun [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 5374,
+    "name": "Chifres Majestosos Gigantes",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5378,
+    "name": "Cartola de Coelho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5379,
+    "name": "Boina Romântica [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5382,
+    "name": "Lacinho Natalino [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5383,
+    "name": "Chapéu de Caça [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5384,
+    "name": "Gorro de Natal 2.0 [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5387,
+    "name": "Tiara de Kafra Gatinha [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5398,
+    "name": "Capacete de Crânio [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5399,
+    "name": "Chapéu de Mandrágora [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5404,
+    "name": "Lacinhos Azuis [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5405,
+    "name": "Chapéu de Filir",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5414,
+    "name": "Fogueira de São João",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5420,
+    "name": "Máscara do Ifrit [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 5421,
+    "name": "Orelhas do Ifrit",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 5431,
+    "name": "Chapéu de Galinha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5436,
+    "name": "Coroa da Noiva",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5442,
+    "name": "Gravata Azul [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5443,
+    "name": "Estátua de Bebê Anjo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5444,
+    "name": "Pente Vermelho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5446,
+    "name": "Presilha de Pegada [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5447,
+    "name": "Chapéu de Sapo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5454,
+    "name": "Boneco de Cachorrinho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5457,
+    "name": "Coelhinho de Cabeça [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5467,
+    "name": "Elmo Draconiano",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5468,
+    "name": "Boina Charmosa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5469,
+    "name": "Chapéu de Mosqueteiro",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5473,
+    "name": "Tiara de Vadon",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5475,
+    "name": "Sorriso Maligno",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 5477,
+    "name": "Chapéu da Bandeira Brasileira [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5478,
+    "name": "Chapéu de Veneza",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5490,
+    "name": "Elmo de Anubis",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5508,
+    "name": "Chapéu de Tubarão",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5509,
+    "name": "Chapéu de Sting",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5510,
+    "name": "Touca de Banho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5512,
+    "name": "Diadema de Aquário",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5513,
+    "name": "Coroa de Aquário",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5514,
+    "name": "Diadema de Peixes [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5515,
+    "name": "Coroa de Peixes [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5518,
+    "name": "Chifres Místicos de Bafomé",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5520,
+    "name": "Protetor de Orelhas de Coelho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5527,
+    "name": "Chapéu de Lunático",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5536,
+    "name": "Carta Imperfeita",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5539,
+    "name": "Máscara de Onça-Pintada [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 5545,
+    "name": "Diadema de Áries [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5546,
+    "name": "Coroa de Áries [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5548,
+    "name": "Rosa Escarlate",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5549,
+    "name": "Diadema de Touro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5550,
+    "name": "Coroa de Touro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5564,
+    "name": "Máscara da Morte [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5569,
+    "name": "Diadema de Gêmeos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5570,
+    "name": "Coroa de Gêmeos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5572,
+    "name": "Chapéu de Bebê Selvagem [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5573,
+    "name": "Chifre do Dokebi [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5579,
+    "name": "Chapéu Chinês do Andarilho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5581,
+    "name": "Diadema de Câncer [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5582,
+    "name": "Coroa de Câncer [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5583,
+    "name": "Chapéu do Éden I",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5584,
+    "name": "Chifres Majestosos Malignos",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5588,
+    "name": "Coroa de Leão [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5589,
+    "name": "Diadema de Leão [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5592,
+    "name": "Asas de Sigrún",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 5593,
+    "name": "Capuz de Coelho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5595,
+    "name": "Olho de Juno [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5596,
+    "name": "Trevo Festivo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5598,
+    "name": "Coroa de Virgem [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5599,
+    "name": "Diadema de Virgem [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5610,
+    "name": "Asas de Gelo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 5653,
+    "name": "Elmo do Senhor das Trevas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5654,
+    "name": "Chapéu da Banda Celestial [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5656,
+    "name": "Capacete de Pecocross [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5658,
+    "name": "Chapéu de Imp",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5659,
+    "name": "Chapéu de Rochoso",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5662,
+    "name": "Coroa de Libra [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5663,
+    "name": "Diadema de Libra [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5664,
+    "name": "Asas de Filir",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": ""
+  },
+  {
+    "id": 5671,
+    "name": "Boneca da Vaidade [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5674,
+    "name": "Cofrinho de Porco",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5676,
+    "name": "Coroa de Escorpião [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5677,
+    "name": "Diadema de Escorpião [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5690,
+    "name": "Chapéu Alado Vermelho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5737,
+    "name": "Chapéu de Cacto",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5738,
+    "name": "Chapéu de Boneco de Neve [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5739,
+    "name": "Coroa de Sagitário [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5740,
+    "name": "Diadema de Sagitário [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5742,
+    "name": "Gorro da Rena do Papai Noel",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5744,
+    "name": "Coroa de Capricórnio [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5745,
+    "name": "Diadema de Capricórnio [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5746,
+    "name": "Poder das Runas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5747,
+    "name": "Desejo dos Deuses [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5748,
+    "name": "Visão do Sentinela [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5749,
+    "name": "Talento do Piloto [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5750,
+    "name": "Artifício das Sombras [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5751,
+    "name": "Inspiração do Artista [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5752,
+    "name": "Toque de Midas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5753,
+    "name": "Mistério da Magia [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5754,
+    "name": "Disciplina do Espírito [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5755,
+    "name": "Som do Silêncio",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 5756,
+    "name": "Sussurro dos Elementos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5757,
+    "name": "Ordem do Protetor [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5758,
+    "name": "Súplica do Cisne [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5760,
+    "name": "Talento do Piloto [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5761,
+    "name": "Chapéu do Bicho Preguiça [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5764,
+    "name": "Gorro de Coelho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 5765,
+    "name": "Laço Gótico [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5766,
+    "name": "Chapéu de Amistr",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5770,
+    "name": "Chapéu de Pouring [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5775,
+    "name": "Donut de Chocolate",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5776,
+    "name": "Sol Radiante",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5777,
+    "name": "Chapéu de Remover",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5780,
+    "name": "Chapéu de Tendrillion",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5782,
+    "name": "Elmo Espartano [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 5784,
+    "name": "Orelhas de Coelho Rosa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5785,
+    "name": "Orelhas de Coelho Verde [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5788,
+    "name": "Óculos 3D",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 5790,
+    "name": "Mitra da Papisa",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5792,
+    "name": "Alfinete de Peixe",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5795,
+    "name": "Chapéu de Primavera [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5801,
+    "name": "Laço de Noiva",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 5808,
+    "name": "Elmo de Diabolus [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 5878,
+    "name": "Rosa Anil",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5880,
+    "name": "Apito da Animação",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5897,
+    "name": "Coroa de Pétalas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5898,
+    "name": "Tiara de Outono [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5899,
+    "name": "Laço Punk [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5901,
+    "name": "Boina de Vigia [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5902,
+    "name": "Chapéu de Jardinagem [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5903,
+    "name": "Bandana Hitaikakushi [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5904,
+    "name": "Chapéu Luxuoso [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5905,
+    "name": "Chapéu de Maestro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5906,
+    "name": "Chifres Maléficos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5907,
+    "name": "Chapéu da Almirante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5918,
+    "name": "Marcas de Comodo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 5919,
+    "name": "Kanzashi de Camélias [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5930,
+    "name": "Tiara da Valquíria Mágica [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5931,
+    "name": "Chapéu de Poltergeist [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5932,
+    "name": "Liberdade da Natureza [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5933,
+    "name": "Máscara do Tengu Corvo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 5938,
+    "name": "Chapéu Octopolvus [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5943,
+    "name": "Chapéu do Visconde [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5945,
+    "name": "Lápis Mastigado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5963,
+    "name": "Fones Alados [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 5965,
+    "name": "Chip E.X.C. [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5967,
+    "name": "Galapago Voador",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5973,
+    "name": "Orelhas Anciãs",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 5975,
+    "name": "Boneca da Jirtas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 5978,
+    "name": "Vacina da Cura",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5982,
+    "name": "Proteção dos Matadores",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5985,
+    "name": "Máscara da Nobreza",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 15165,
+    "name": "Chapéu Festeiro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 15166,
+    "name": "Colar com Rosário",
+    "itemTypeId": 2,
+    "itemSubTypeId": 513,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 15369,
+    "name": "Tiara Futurista [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 15370,
+    "name": "Gálea de Unicórnio [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 15385,
+    "name": "Robozinho Sabe-Tudo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 15920,
+    "name": "Coraçãozinho Flamejante",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 15921,
+    "name": "Natureza Pequenina",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 15922,
+    "name": "Gelinho Místico",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 15923,
+    "name": "Ventinho Bruto",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 17123,
+    "name": "Caixa Máscara Esquisita",
+    "itemTypeId": 7,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18502,
+    "name": "Disfarce",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18503,
+    "name": "Chifrinhos",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18504,
+    "name": "Elmo de Anúbis da Petrificação",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 18505,
+    "name": "Piercing de Umbala",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18508,
+    "name": "Coroa do Garuda [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18514,
+    "name": "Chapéu do Éden II [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18520,
+    "name": "Coroa Jaty",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18521,
+    "name": "Trevo da Sorte",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18522,
+    "name": "Chapéu da Banda Infernal [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18523,
+    "name": "Super Nimbus",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18524,
+    "name": "Máscara de Dokebi",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 18528,
+    "name": "Gatinho Ranzinza [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18529,
+    "name": "Rosa Selvagem Dorminhoca [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 18530,
+    "name": "Máscara do Despero de Thanatos",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 18531,
+    "name": "Boneco de Tartaruga [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18533,
+    "name": "Chapéu de Abelha [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18534,
+    "name": "Máscara Chique de Carnaval [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 18536,
+    "name": "Rabo de Gato",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18537,
+    "name": "Chapéu de Malangdo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18540,
+    "name": "Máscara do Evangelho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 18541,
+    "name": "Chapéu de Caçador [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18542,
+    "name": "Coroa da Papisa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 18551,
+    "name": "Coroa Galáctica [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18553,
+    "name": "Arvorezinha de Natal",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18555,
+    "name": "Elmo do General [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18559,
+    "name": "Orelhas do Fafnir",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18560,
+    "name": "Máscara do Fafnir",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18561,
+    "name": "Quepe com Pluma [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18563,
+    "name": "Tiara dos Corações-Alados [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18564,
+    "name": "Biscoito de Coração",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18565,
+    "name": "Cartola de Leprechaun [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18566,
+    "name": "Donut Caramelizado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18567,
+    "name": "Nariz de Madeira",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18569,
+    "name": "Chapéu de Ovelha Fofinha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18570,
+    "name": "Decoração Dourada Antiga [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18571,
+    "name": "Chapéu das Flores Encantadas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18572,
+    "name": "Chapéu do Julgamento [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18575,
+    "name": "Disfarce de Solid Sorrateiro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 18576,
+    "name": "Presilhas de Yin Yang",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18577,
+    "name": "Parafusos de Ragenstein",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18580,
+    "name": "Coroa de Yggdrasil [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18581,
+    "name": "Máscara de Tigre Vermelha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 18585,
+    "name": "Orelhas de Coelho Laranja [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18587,
+    "name": "Orelhas de Coelho Azul [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18589,
+    "name": "Chapéu de Morango [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18590,
+    "name": "Tiara das Cinco Almas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18591,
+    "name": "Óculos do Inspetor [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 18593,
+    "name": "Coroa do Poder [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18595,
+    "name": "Chifre do Patriarca [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18596,
+    "name": "Chapéu de Broto",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18597,
+    "name": "Elmo do Mercúrio [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18599,
+    "name": "Máscara Esquisita",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18600,
+    "name": "Boné de Gatinho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18601,
+    "name": "Chapéu de Brioche [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18609,
+    "name": "Venda Sombria [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 18610,
+    "name": "Bandana 7º Aniversário bRO",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18611,
+    "name": "Óculos Escuros Especiais [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 18612,
+    "name": "Chapéu Branco de Borobudur [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18613,
+    "name": "Chapéu Negro de Borobudur [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18619,
+    "name": "Disfarce do Arruaceiro",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18620,
+    "name": "Tapa-Olho Amoroso",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18626,
+    "name": "Chapéu de Gelato [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18630,
+    "name": "Boneca de Alicel",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18631,
+    "name": "Lacinho da Cozinheira",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18632,
+    "name": "Presilha de Poring Amarela [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18633,
+    "name": "Presilha de Poring Rosa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18634,
+    "name": "Presilha de Poring Verde [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18635,
+    "name": "Presilha de Poring Azul [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18636,
+    "name": "Laço Nupcial",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18638,
+    "name": "Capacete de Limão [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18639,
+    "name": "Quepe da Marinha [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18641,
+    "name": "Cartola de Amatsu [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18642,
+    "name": "Máscara de Tesoura",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18643,
+    "name": "Máscara de Pedra",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18644,
+    "name": "Máscara de Papel",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18645,
+    "name": "Quepe do Marinheiro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18646,
+    "name": "Gorro da Vaquinha [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18647,
+    "name": "Tapa-Olho Estrelado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18648,
+    "name": "Língua Congelada",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18652,
+    "name": "Elmo de Vanargandr [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18656,
+    "name": "Poderoso Chapéu de Bruxa",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18657,
+    "name": "Asas de Pégaso",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18659,
+    "name": "Chapéu de Boitatá [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 18660,
+    "name": "Ornamento de Penas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18661,
+    "name": "Elmo do Daimiô [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18662,
+    "name": "Cartola do Xóper",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18663,
+    "name": "Boné com Óculos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18664,
+    "name": "Óculos de Quartzo Rubi",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18665,
+    "name": "Laranja Fresca",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18666,
+    "name": "Blue-ray",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18667,
+    "name": "Lacinhos com Gatos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18668,
+    "name": "Boneco da Lentidão [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18670,
+    "name": "Lenço da Compaixão",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18671,
+    "name": "Faixa Natalina das Renas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18673,
+    "name": "Coroa de Arunafeltz",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18674,
+    "name": "Chapéu do Piloto [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18675,
+    "name": "Chapéu de Maçã Verde [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18676,
+    "name": "Digimóculos",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18677,
+    "name": "Ramo de Sakura",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18678,
+    "name": "Alho Poró",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18679,
+    "name": "Ábaco",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18680,
+    "name": "Chapéu de Perereca",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18681,
+    "name": "Orelhas de Cachorro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18682,
+    "name": "Lágrimas de Cristal",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18683,
+    "name": "Cenoura Mordida",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18684,
+    "name": "Chapéu de Dewata [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18692,
+    "name": "Peruca Jeca são Five [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18693,
+    "name": "Gatinho Adormecido [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18694,
+    "name": "Chapeuzinho Vermelho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18695,
+    "name": "Coroa do Renascido [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18696,
+    "name": "Capacete de Laranja",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18697,
+    "name": "Seringa Vermelha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18698,
+    "name": "Salgadinho de Queijo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18699,
+    "name": "Salmão Faminto",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18700,
+    "name": "Cartola de Páscoa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18701,
+    "name": "Chapéu da Sabedoria Antiga",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18702,
+    "name": "Creme de Barbear",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18703,
+    "name": "Broto de Yggdrasil",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18707,
+    "name": "Chapéu de Planta Cantante",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18719,
+    "name": "Nuvem Dia Ensolarado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18727,
+    "name": "Chapéu de Sedora [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18728,
+    "name": "Elmo de Aegir [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18729,
+    "name": "Bola Rebourne [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18730,
+    "name": "Chapéu de Calouro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18732,
+    "name": "Barrete TE",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18733,
+    "name": "Elmo TE",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18734,
+    "name": "Olho Mágico TE",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18736,
+    "name": "Pedido Desconhecido",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18746,
+    "name": "Sopro de Skadi",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18752,
+    "name": "Livro Amaldiçoado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18754,
+    "name": "Presas Vampíricas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18755,
+    "name": "Boina Alada [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18756,
+    "name": "Chapéu de Shiba Inu Preto [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18760,
+    "name": "Chapéu do Mago Implacável [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18761,
+    "name": "Cartola Magnificente [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18762,
+    "name": "Máscara Kyuubi",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18763,
+    "name": "Espírito do Humor [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18764,
+    "name": "Orelhas do Dono da Lua [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18765,
+    "name": "Corsário Prerigoso [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18766,
+    "name": "Elmo de Angelus [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18767,
+    "name": "Elmo de Helios [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio"
+  },
+  {
+    "id": 18768,
+    "name": "Elmo de Marfim [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18769,
+    "name": "Chapéu Mandarin Vermelho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 18770,
+    "name": "Chapéu Mandarin Azul [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 18771,
+    "name": "Disfarce do Fantasma",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18772,
+    "name": "Visor Além do Alcance",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18773,
+    "name": "Nadadeiras Verdes",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18774,
+    "name": "Máscara do Executor",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18775,
+    "name": "Máscara do Ferreiro",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 18776,
+    "name": "Beijo do Arcanjo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": ""
+  },
+  {
+    "id": 18777,
+    "name": "Lâmpada Mágica [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18785,
+    "name": "Chapéu do Rei Poring [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18791,
+    "name": "Laço Divino [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18793,
+    "name": "Touca da Lua Minguante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18794,
+    "name": "Chapéu Gracioso [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18795,
+    "name": "Boné com Asinhas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18804,
+    "name": "Tiara Gótica de Espinhos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18809,
+    "name": "Bandana de 8º aniversário",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18810,
+    "name": "Chapéu de Abóbora Infernal",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18813,
+    "name": "Óculos Retrofuturistas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18816,
+    "name": "Boné do Aluno Exemplar [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18817,
+    "name": "Boné do Aluno Travesso [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18818,
+    "name": "Lápis Vermelho Mordido",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18819,
+    "name": "Lápis Azul Mordido",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18820,
+    "name": "Elmo de Cinzas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18821,
+    "name": "Chapéu de Penas Arco-íris [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18823,
+    "name": "Diadema do Grifo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18832,
+    "name": "Chapéu de Bafomé Jr.",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18833,
+    "name": "Coroa de Marin [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18838,
+    "name": "Touca de Angeling [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18844,
+    "name": "Balão de Pouring Natalino",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18848,
+    "name": "Presilha de Rosas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": ""
+  },
+  {
+    "id": 18849,
+    "name": "Laço da Celine [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": ""
+  },
+  {
+    "id": 18850,
+    "name": "Chapéu de Urso Natalino",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18855,
+    "name": "Chapéu de Dantos Sumont [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18856,
+    "name": "Chapéu do Tigre Branco",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18857,
+    "name": "Boneco de Curupira [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18858,
+    "name": "Balão de Angeling Natalino",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18859,
+    "name": "Balão de Poring Noel",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18864,
+    "name": "Flor de Tófi",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18865,
+    "name": "Coroa do Mestre Espadachim [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18866,
+    "name": "Cartola do Duque Coruja [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18868,
+    "name": "Máscara do Esqueleto",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 18874,
+    "name": "Monóculo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 18878,
+    "name": "Chapéu da Guarda Real [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18880,
+    "name": "Chapéu Supremo Dourado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18884,
+    "name": "Elmo Tatenashi [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18885,
+    "name": "Jejecap",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18887,
+    "name": "Tiara de Coelho Celeste [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18888,
+    "name": "Tiara de Coelho Flamejante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18889,
+    "name": "Tiara de Coelho Dourada [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18890,
+    "name": "Tiara de Coelho Cinza [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18891,
+    "name": "Chapéu de Husky [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18892,
+    "name": "Chapéu de UFOring [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18893,
+    "name": "Elmo Garra de Dragão [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18894,
+    "name": "Diadema Arco-íris",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18895,
+    "name": "Asas de Tapaton",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18896,
+    "name": "Barbatanas Flamejantes",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18897,
+    "name": "Diadema do Cisne",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 18898,
+    "name": "Coroa do Escolhido [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18900,
+    "name": "Dedo do Froido",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18901,
+    "name": "Chapéu do Fandalg, o Acinzentado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18907,
+    "name": "Boneco de Panda [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18908,
+    "name": "Orelhas Vermelhas de Fiera [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18912,
+    "name": "Pombo Revelador [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 18913,
+    "name": "Corvo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": ""
+  },
+  {
+    "id": 18916,
+    "name": "Balão de Urso",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18917,
+    "name": "Balão de Coração",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18918,
+    "name": "Balão de Polvo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18929,
+    "name": "Chapeuriz de Elefante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18930,
+    "name": "Boneco de Gorila [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18931,
+    "name": "Boneco de Leãozinho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18932,
+    "name": "Boneco de Rinoceronte [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18933,
+    "name": "Cartola das Engrenagens [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18934,
+    "name": "Orelhas de Flor do Luar [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18940,
+    "name": "Chapéu das Chamas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18941,
+    "name": "Boina do Zéfiro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18942,
+    "name": "Gorro Frígido [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18943,
+    "name": "Cartola da Natureza [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18948,
+    "name": "Máscara Sensei",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18955,
+    "name": "Chapéu de Saque [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18957,
+    "name": "Boina do 9º Aniversário",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 18959,
+    "name": "Chapéu de Dighi-titica [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18970,
+    "name": "Touca do Gato Mágico [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18971,
+    "name": "Memorável Poder das Runas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18972,
+    "name": "Memorável Desejo dos Deuses [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18973,
+    "name": "Memorável Talento do Piloto [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18974,
+    "name": "Memorável Talento do Mecânico [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18975,
+    "name": "Memorável Artifício das Sombras [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18976,
+    "name": "Memorável Inspiração do Artista [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18977,
+    "name": "Memorável Toque de Midas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18978,
+    "name": "Memorável Mistério da Magia [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18979,
+    "name": "Memorável Disciplina do Espírito [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18980,
+    "name": "Memorável Sussurro dos Elementos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18981,
+    "name": "Memorável Súplica do Cisne [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18982,
+    "name": "Memorável Vingança dos Mortos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18983,
+    "name": "Memorável Sacrifício do Protetor [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18984,
+    "name": "Memorável Sentido de Caça [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 18985,
+    "name": "Pena de Falcão",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 18997,
+    "name": "Chip Fugitivo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19009,
+    "name": "Nimbus Trovejante",
+    "itemTypeId": 9,
+    "itemSubTypeId": 257,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19019,
+    "name": "Coroa da Rainha de Copas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19020,
+    "name": "Tiara Arcana [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19022,
+    "name": "Cristal Filosofal",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19024,
+    "name": "Diadema do Paraíso",
+    "itemTypeId": 9,
+    "itemSubTypeId": 261,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19029,
+    "name": "Miniatura de Alice [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19038,
+    "name": "Coroa de Celebração [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19039,
+    "name": "Orelhas de Celebração",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19049,
+    "name": "Máscara de Espinhos",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19051,
+    "name": "Touca do Gato Guerreiro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19081,
+    "name": "Casca de Ovo de Verme [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19082,
+    "name": "Óculos de Segurança",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19083,
+    "name": "Máscara Dourada",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19084,
+    "name": "Chapéu dos Farfelle [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19085,
+    "name": "Penugens de Sigrún [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19095,
+    "name": "Balões da Família Poring",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19097,
+    "name": "Gravata Macabra de Cetim",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19098,
+    "name": "Chapéu Macabro de Cetim [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19101,
+    "name": "Familiar de Combate",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19104,
+    "name": "Asas de Dragão",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19105,
+    "name": "Chicle de Menta",
+    "itemTypeId": 2,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19106,
+    "name": "Véu das Gemas Sagradas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 19109,
+    "name": "Tiara de Popstar",
+    "itemTypeId": 2,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19110,
+    "name": "Tiara de Popstar [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19111,
+    "name": "Olho da Cecil [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19112,
+    "name": "Pergaminho do Tengu",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19114,
+    "name": "Gravata de Sting [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19115,
+    "name": "Chapéu da República [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19116,
+    "name": "Dragonete de Fogo [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19136,
+    "name": "Espírito da Donzela Verde [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19137,
+    "name": "Morango Suculento",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19138,
+    "name": "Diadema do Serafim",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19143,
+    "name": "Balão de Poring",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19144,
+    "name": "Chapéu de Ferlock [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19145,
+    "name": "Assobio",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19146,
+    "name": "Balão de Marin",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19147,
+    "name": "Balão de Drops",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19148,
+    "name": "Balão de Poring Natalino",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19149,
+    "name": "Balão de Poporing",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19150,
+    "name": "Balão de Metaling",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19151,
+    "name": "Balão de Deviling",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19152,
+    "name": "Balão de Angeling",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19153,
+    "name": "Balão de Ghostring",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19154,
+    "name": "Balão de Archangeling",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19156,
+    "name": "Orgulho Arco-Íris [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19157,
+    "name": "Boneca Insurgente [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19159,
+    "name": "Bacinete Fortificado [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo Meio Baixo"
+  },
+  {
+    "id": 19162,
+    "name": "Snorkel [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19163,
+    "name": "Boneca da Succubus [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19168,
+    "name": "Tiara Especial de Kafra [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19170,
+    "name": "Chip Guardião",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19171,
+    "name": "Gorro do Mago [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19172,
+    "name": "Papisa em Miniatura [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19173,
+    "name": "Aura de Gelo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19176,
+    "name": "Benção do Caído [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19181,
+    "name": "Óculos Retrofuturistas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19209,
+    "name": "Chapéu de Enfermagem Ilusional [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19210,
+    "name": "Maçã Ilusional [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19212,
+    "name": "Gorro de Gatinho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19220,
+    "name": "Elmo Gigante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19223,
+    "name": "Barrete Ilusional [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19238,
+    "name": "Cebolinha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19239,
+    "name": "Cenourinha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19241,
+    "name": "Fones Amplificadores [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19242,
+    "name": "Tiara Felina [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19243,
+    "name": "Laço Encantado de Antonio",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19244,
+    "name": "Rosário Dourado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19245,
+    "name": "Fones Danificados [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19247,
+    "name": "Florzinha Ilusional [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19249,
+    "name": "Bênção Celestial [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19252,
+    "name": "Orelhas de Kardui",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19256,
+    "name": "Plaquinha do Iniciante [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19257,
+    "name": "Véu da Arcebispa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19263,
+    "name": "Elmo do Xogunato [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19264,
+    "name": "Chapéu de Dourado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19265,
+    "name": "Chapéu Transformacento [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19268,
+    "name": "Hálito de Verme com Rosto",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19269,
+    "name": "Tiara do Orgulho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19271,
+    "name": "Chapéu do Tigre Branco [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19274,
+    "name": "Fone Descolado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19283,
+    "name": "[Kachua] Tiara dos Corações-Alados [1]",
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19284,
+    "name": "[Kachua] Óculos Retrofuturistas",
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19285,
+    "name": "Elmo Dracônico [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19296,
+    "name": "Chapéu Chique com Pena [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19299,
+    "name": "Fragmento de Yggdrasil",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19300,
+    "name": "Quepe do Cão-mandante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19304,
+    "name": "Elmo do Matador de Dragões [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19305,
+    "name": "Lampião das Fadas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19306,
+    "name": "Carta de Comodo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19308,
+    "name": "Quepe de Amistr [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19311,
+    "name": "Elmo do Guerreiro Feroz [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19313,
+    "name": "Diadema de Contas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19314,
+    "name": "Sobrepeliz Real",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19315,
+    "name": "Chapéu do Éden [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19316,
+    "name": "Capuz de Esquilo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19317,
+    "name": "Elmo Alado Dourado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19318,
+    "name": "Rosário da Guarda Real",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19319,
+    "name": "Chapéu de Belzebu [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19321,
+    "name": "Pombinho Branco",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19326,
+    "name": "Livros da Sabedoria [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19327,
+    "name": "Pluma do Serafim",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19329,
+    "name": "Mão do Demônio",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19337,
+    "name": "Capacete de Aviador [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19340,
+    "name": "Casca Angelical [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19341,
+    "name": "Casca Demoníaca [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19344,
+    "name": "Faixa Ilusional [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19348,
+    "name": "Doram Filhote",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19349,
+    "name": "Chapepperoni [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19350,
+    "name": "Cenoura Vegana",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19352,
+    "name": "Maçã Mordida [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19364,
+    "name": "Chapéu de Viagem [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19369,
+    "name": "Morango-Rei",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19379,
+    "name": "Quepe do General [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19380,
+    "name": "Fogo Fátuo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19381,
+    "name": "Echarpe do Paraíso",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19382,
+    "name": "Pipoca de Frigideira",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19387,
+    "name": "Amistr Resistente [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19390,
+    "name": "Chapéu Preguiçoso [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19391,
+    "name": "Olhos Ilusórios",
+    "itemTypeId": 9,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19393,
+    "name": "Pedra do Desbravador",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19402,
+    "name": "Cosmos",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19409,
+    "name": "Pluma Negra",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19412,
+    "name": "Pássaro de Fogo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19436,
+    "name": "Capacete Vesper [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19437,
+    "name": "Adorno Florido",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19438,
+    "name": "Colar da Bruxa",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19443,
+    "name": "Tapa-Olho Cósmico",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19444,
+    "name": "Tapa-Olho Cósmico [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19445,
+    "name": "Curativo YSF01",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19446,
+    "name": "Curativo YSF01 [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19451,
+    "name": "Ornamento Divino",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19452,
+    "name": "Ornamento Divino [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19455,
+    "name": "Diadema do Paraíso [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19456,
+    "name": "Máscara do Tengu Corvo [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19460,
+    "name": "Véu da Noite [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19465,
+    "name": "Boina de Pétala Amarela",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19495,
+    "name": "Asinhas Discretas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 19498,
+    "name": "Lacinho Cítrico",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19499,
+    "name": "Echarpe Misteriosa",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 28502,
+    "name": "Lenço Infame",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 400000,
+    "name": "Canção",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": ""
+  },
+  {
+    "id": 400002,
+    "name": "Asas Vitoriosas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 400006,
+    "name": "Cocar do Orc Herói [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400011,
+    "name": "Chapéu de Oficial [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400012,
+    "name": "Chifre Magistral",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 400013,
+    "name": "Palitinho de Chocolate",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 400021,
+    "name": "Joia do Almirante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400022,
+    "name": "Chapéu de Fundição [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400023,
+    "name": "Marionete de Thanatos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400044,
+    "name": "Cartola Sombria [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400047,
+    "name": "Capacete de Aceleração [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": ""
+  },
+  {
+    "id": 400048,
+    "name": "Dádiva das Divindades [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400049,
+    "name": "Quepe Humilde [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400052,
+    "name": "Elmo de Dragão Esmeralda [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400054,
+    "name": "Acessório Extravagante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400059,
+    "name": "Tiara de Escorpião [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400060,
+    "name": "Coroa Brilhante Adornada",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 400061,
+    "name": "Tiara de Sagitário [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400075,
+    "name": "Tiara de Astrea [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400097,
+    "name": "Protetor das Marés [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400113,
+    "name": "Adorno da Vitória",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 400114,
+    "name": "Adorno da Vitória [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 400194,
+    "name": "Enfeite de Cerejeira [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400203,
+    "name": "Quepe do Miau-mirante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400213,
+    "name": "Asas de Yggdrasil [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400287,
+    "name": "Capacete de Intensificação [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400308,
+    "name": "Touca Exótica [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 410000,
+    "name": "Aura de Shen",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410001,
+    "name": "Phalanx Flutuante",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410004,
+    "name": "Marcas de Comodo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410009,
+    "name": "Diadema do Orgulho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410010,
+    "name": "Olhos Ilusórios [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410013,
+    "name": "Comunicador Avançado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410017,
+    "name": "Chip de Batalha [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410023,
+    "name": "Laçarotes Vitalícios",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410024,
+    "name": "Laçarotes Vitalícios [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410025,
+    "name": "Herança Real",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410026,
+    "name": "Herança Real [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410027,
+    "name": "Cesta das Maravilhas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410028,
+    "name": "Cesta das Maravilhas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410057,
+    "name": "Brincos Yin-Yang",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410058,
+    "name": "Brincos Yin-Yang [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410064,
+    "name": "Visor de Mergulho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410065,
+    "name": "Visor de Mergulho [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410066,
+    "name": "Mini Óculos",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410067,
+    "name": "Mini Óculos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410080,
+    "name": "Óculos Neon [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410088,
+    "name": "Escuta Avançada",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410089,
+    "name": "Escuta Avançada [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410096,
+    "name": "Lacinhos Yin-Yang",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410097,
+    "name": "Lacinhos Yin-Yang [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410109,
+    "name": "Raposa Risonha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410110,
+    "name": "Raposa Risonha [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410124,
+    "name": "Orelhas em Chamas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410125,
+    "name": "Orelhas em Chamas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410129,
+    "name": "Orelhas Fantasmagóricas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410130,
+    "name": "Orelhas Fantasmagóricas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410139,
+    "name": "Tiara de Asmodeus",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410140,
+    "name": "Tiara de Asmodeus [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410142,
+    "name": "Adorno Angelical [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 410185,
+    "name": "Relógio de Bolso dos Rebeldes",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410186,
+    "name": "Relógio de Bolso dos Rebeldes [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 420003,
+    "name": "CD Antiquado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420006,
+    "name": "Coleira de Espinhos",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420013,
+    "name": "Donzela Serelepe",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420017,
+    "name": "Broto dos Anciões FOR",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420018,
+    "name": "Broto dos Anciões DES",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420019,
+    "name": "Broto dos Anciões AGI",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420020,
+    "name": "Broto dos Anciões SOR",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420021,
+    "name": "Broto dos Anciões VIT",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420022,
+    "name": "Broto dos Anciões INT",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420028,
+    "name": "Ombreiras da Glória",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420031,
+    "name": "Mascara Azulada",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420093,
+    "name": "Manto da Herança",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420110,
+    "name": "Cachecol Camuflado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420112,
+    "name": "Manto do Herói",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420158,
+    "name": "Cartas Encantadas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420160,
+    "name": "Força Terrestre",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 436003,
+    "name": "Ódium de Thanatos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 436004,
+    "name": "Despero de Thanatos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 436005,
+    "name": "Maero de Thanatos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio Baixo"
+  },
+  {
+    "id": 400467,
+    "name": "Tiara do Norte [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400470,
+    "name": "Tiara do Sul [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 420194,
+    "name": "Apito de Resgate",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420226,
+    "name": "Trevo de Mora",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420227,
+    "name": "Raposa Ilusional",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19102,
+    "name": "Boina das Asas Lunares [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19108,
+    "name": "Parceria Selvagem [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19407,
+    "name": "Boina de trabalhador",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19426,
+    "name": "Coroa do Espírito do Rei",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19453,
+    "name": "Boné GG",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19469,
+    "name": "Coroa Sagrada",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 410233,
+    "name": "Selo de Loki [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 420210,
+    "name": "Selo de Copas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420213,
+    "name": "Selo de Espadas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420220,
+    "name": "Selo de Ouros",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19343,
+    "name": "Máscara da Fênix",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 19366,
+    "name": "Elmo Goibne Ilusional [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 15892,
+    "name": "Elmo de Themis [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400476,
+    "name": "Boina Sustenida [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400477,
+    "name": "Ferramentas Agrícolas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 410015,
+    "name": "Fones COR [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 5969,
+    "name": "Rainha dos Piratas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 15823,
+    "name": "Coroa de Pollux",
+    "itemTypeId": 0,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 15824,
+    "name": "Coroa de Procyon",
+    "itemTypeId": 0,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 400486,
+    "name": "Coroa do Monarca [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 420238,
+    "name": "Morcego Ilusional",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19164,
+    "name": "Boina do Éden III [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19165,
+    "name": "Boina do Éden IV [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19428,
+    "name": "Faixa Morpheus Ilusional [1]",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400101,
+    "name": "Chapéuverso [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 410174,
+    "name": "Fones de Angeling",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410176,
+    "name": "Fones de Deviling",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19026,
+    "name": "Protetor de Preamar [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19211,
+    "name": "Tiara de Valquíria Mística [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19275,
+    "name": "Snorkel",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 410159,
+    "name": "Globo Armilar [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Meio"
+  },
+  {
+    "id": 420180,
+    "name": "Espinha de Brinaranha",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420251,
+    "name": "Faísca Ilusional",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420252,
+    "name": "Pires Ilusional",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420253,
+    "name": "Cachecol da República",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 5796,
+    "name": "Disfarce 1",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19033,
+    "name": "Tiara de Orquídea Perene [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 420105,
+    "name": "Aura Amaldiçoada",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19266,
+    "name": "Diadema do Sobrevivente [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 19267,
+    "name": "Esferas do Sobrevivente",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19405,
+    "name": "Sabores Outonais",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 19406,
+    "name": "Fogueira de Graças",
+    "itemTypeId": 2,
+    "itemSubTypeId": 519,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 400016,
+    "name": "Boneco de Peru",
+    "itemTypeId": 0,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 400307,
+    "name": "Faixa da Inquisição [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400528,
+    "name": "Boina Escarlate [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 420265,
+    "name": "Rosa Ilusional",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420266,
+    "name": "Ursinho Ilusional",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 19262,
+    "name": "Tiara da Bruxa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 410235,
+    "name": "Binóculos de Resgate",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 420065,
+    "name": "Balão de Arcanjo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 410259,
+    "name": "Fones de Rei Poring",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Meio"
+  },
+  {
+    "id": 420318,
+    "name": "Rosário Ilusional",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 420269,
+    "name": "Selo de Bastões",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Baixo"
+  },
+  {
+    "id": 400077,
+    "name": "Protetor de Banho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 0,
+    "placement": "Topo"
+  },
+  {
+    "id": 400396,
+    "name": "Chifres Oníricos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  },
+  {
+    "id": 400597,
+    "name": "Caubói de Kiwawa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 512,
+    "slots": 1,
+    "placement": "Topo"
+  }
+]
