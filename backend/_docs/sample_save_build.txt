@@ -1,0 +1,13 @@
+{
+    "nome": "nome da builda",
+    "top1": "topo 1",
+    "top2": "topo 2",
+    "top3": "topo 3",
+    "armadura": "armadura",
+    "mao_esquerda": "mao esquerda",
+    "mao_direita": "mao direita",
+    "capa": "capa",
+    "sapato": "sapato",
+    "acessorio_1": "acessorio_1",
+    "acessorio_2": "acessorio_2"
+}

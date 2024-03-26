@@ -1,0 +1,2122 @@
+[
+  {
+    "id": 2101,
+    "name": "Vembrassa",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Escudo quadrado, pequeno mas efetivo para bloquear ataques inimigos. Arraste para a janela de equipamento para utilizar.\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777720^000000\\nPeso: ^77777730^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2102,
+    "name": "Vembrassa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo quadrado, pequeno mas efetivo para bloquear ataques inimigos. Arraste para a janela de equipamento para utilizar.\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777720^000000\\nPeso: ^77777730^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2103,
+    "name": "Broquel",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Escudo redondo com uma al\\u00e7a para segurar.\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777740^000000\\nPeso: ^77777760^000000\\nClasses: ^777777Espadachim\\/Novi\\u00e7o\\/Mercador\\/Gatuno e as respectivas evolu\\u00e7\\u00f5es\\/Bardo\\/Odalisca^000000"
+  },
+  {
+    "id": 2104,
+    "name": "Broquel [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo redondo com uma al\\u00e7a para segurar.\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777740^000000\\nPeso: ^77777760^000000\\nClasses: ^777777Espadachim\\/Novi\\u00e7o\\/Mercador\\/Gatuno e as respectivas evolu\\u00e7\\u00f5es\\/Bardo\\/Odalisca^000000"
+  },
+  {
+    "id": 2105,
+    "name": "Escudo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Escudo de fabrica\\u00e7\\u00e3o precisa, quase impenetr\\u00e1vel a ataques.\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777760^000000\\nPeso: ^777777130^000000\\nClasses: ^777777Espadachim e suas evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2106,
+    "name": "Escudo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo de fabrica\\u00e7\\u00e3o precisa, quase impenetr\\u00e1vel a ataques.\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777760^000000\\nPeso: ^777777130^000000\\nClasses: ^777777Espadachim e suas evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2107,
+    "name": "Escudo Espelhado",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Escudo de prata polido ao ponto de refletir como um espelho. Protege contra magias dos oponentes.\\n--------------------------\\nClasse: ^777777Escudo^000000\\nDEF: ^77777745^000000 DEFM: ^7777775^000000\\nPeso: ^777777100^000000\\nClasses: ^777777Espadachins e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2108,
+    "name": "Escudo Espelhado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo de prata polido ao ponto de refletir como um espelho. Protege contra magias dos oponentes.\\n--------------------------\\nClasse: ^777777Escudo^000000\\nDEF: ^77777745^000000 DEFM: ^7777775^000000\\nPeso: ^777777100^000000\\nClasses: ^777777Espadachins e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2109,
+    "name": "Grimório",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Livro de magia t\\u00e3o grosso que pode ser usado como escudo por Magos.\\n^0000ffINT +1, DEFM +2^000000\\nClasse:  ^777777Escudo^000000\\nDefesa: ^77777725^000000\\nPeso: ^777777100^000000\\nClasses: ^777777Mago e suas evolu\\u00e7\\u00f5es, Espiritualista^000000"
+  },
+  {
+    "id": 2110,
+    "name": "Arauto Divino",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Escudo ungido pela igreja, que simboliza todos os des\\u00edgnios divinos protegidos sob o s\\u00edmbolo da rosa de Maria Madalena.\\n^0000ffImposs\\u00edvel de ser aprimorarado, VIT +2 e DEFM +2.^000000\\nClasse: ^777777Escudo^000000    \\nDefesa: ^777777110^000000\\nPeso: ^777777140^000000\\nN\\u00edvel necess\\u00e1rio: ^77777768^000000\\nClasses: ^777777Exclusivo para Templ\\u00e1rios^000000"
+  },
+  {
+    "id": 2111,
+    "name": "Spiritus Sancti",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Personifica\\u00e7\\u00e3o do terceiro membro da sant\\u00edssima trindade, citada no livro das revela\\u00e7\\u00f5es. Apenas os soldados da divina provid\\u00eancia podem empunh\\u00e1-lo.\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^0000ffINT +2. VIT +3.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777120^000000 DEFM: ^7777773^000000\\nPeso: ^777777160^000000\\nN\\u00edvel necess\\u00e1rio: ^77777783^000000\\nClasses: ^777777Templ\\u00e1rios e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2112,
+    "name": "Vembrassa do Aprendiz",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Apenas para Aprendizes. A Associa\\u00e7\\u00e3o Secreta de Curtidores de Couro de Prontera criou esta vembrassa produzida inteiramente com trabalho artesanal. Na frente do escudo pode-se ler \\\"Patroc\\u00ednio: ASCCP, cobertura nacional e internacional\\\". Parece mais uma estrat\\u00e9gia de marketing para vender mais escudos... \\n^0000ffImposs\\u00edvel de se aprimorar.^000000\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777720^000000\\nPeso: ^7777770.1^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Exclusivo para Aprendizes^000000"
+  },
+  {
+    "id": 2113,
+    "name": "Escudo do Aprendiz [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um belo escudo feito de um metal especial para a classe Aprendiz.\\n--------------------------\\n^0000ffResist\\u00eancia as propriedades Fogo, \\u00c1gua, Terra, Vento, Fantasma, Maldito, Sombrio, Sagrado e Veneno +20%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777720^000000 DEFM: ^7777770^000000\\nPeso: ^777777100^000000\\nN\\u00edvel necess\\u00e1rio: ^77777740^000000\\nClasses: ^777777Aprendizes e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2114,
+    "name": "Broquel de Pedra [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo de pedra obtido por Thor ao matar Hrungnir, rei dos gigantes. Ele possui os poderes dos gigantes, que rivalizam com a for\\u00e7a dos deuses.\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de tamanho Grande +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777745^000000 DEFM: ^7777770^000000\\nPeso: ^777777150^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas, exceto Aprendizes^000000"
+  },
+  {
+    "id": 2115,
+    "name": "Escudo da Valquíria [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo usado por Gna, mensageira de Freyja, quando ela serviu como uma Valqu\\u00edria.\\n--------------------------\\n^0000ffResist\\u00eancia as propriedades Fogo, \\u00c1gua, Maldito e Sombrio +20%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas, exceto Aprendizes^000000"
+  },
+  {
+    "id": 2116,
+    "name": "Guardião Angelical [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Anjo Guardi\\u00e3o do Superaprendiz. Escudo que cont\\u00e9m poder sagrado, anulando o mal.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Dem\\u00f4nio +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777730^000000 DEFM: ^7777770^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777720^000000\\nClasses: ^777777Aprendizes e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2117,
+    "name": "Proteção de Braço",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Um protetor de bra\\u00e7o criado especialmente \\npara a classe Ninja, ele \\u00e9 forrado \\ncom uma chapa de a\\u00e7o que garante maior \\ndefesa e durabilidade. \\nTipo: ^777777Escudo^000000 \\nDefesa: ^77777750^000000 \\nPeso: ^77777715^000000 \\nN\\u00edvel necess\\u00e1rio: ^77777720^000000 \\nClasses: ^777777Ninja^000000"
+  },
+  {
+    "id": 2118,
+    "name": "Proteção de Braço [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um protetor de bra\\u00e7o especialmente \\npara a classe Ninja, ele \\u00e9 forrado \\ncom uma chapa de a\\u00e7o que garante maior \\ndefesa e durabilidade. \\nTipo: ^777777Escudo^000000 \\nDefesa: ^77777750^000000 \\nPeso: ^77777715^000000 \\nN\\u00edvel necess\\u00e1rio: ^77777720^000000 \\nClasses: ^777777Ninja^000000"
+  },
+  {
+    "id": 2119,
+    "name": "Proteção de Braço Avançada",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Um protetor de bra\\u00e7o criado exclusivamente para a classe Ninja, ele \\u00e9 melhorado com Prote\\u00e7\\u00e3o M\\u00e1gica de alto n\\u00edvel por um grande artes\\u00e3o.\\n^0000ffDEFM +5.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777745^000000\\nPeso: ^77777715^000000\\nN\\u00edvel necess\\u00e1rio: ^77777750^000000\\nClasses: ^777777Ninjas e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2120,
+    "name": "Proteção de Braço Avançada [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um protetor de bra\\u00e7o criado exclusivamente para a classe Ninja, ele \\u00e9 melhorado com Prote\\u00e7\\u00e3o M\\u00e1gica de alto n\\u00edvel por um grande artes\\u00e3o.\\n^0000ffDEFM +5.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777745^000000\\nPeso: ^77777715^000000\\nN\\u00edvel necess\\u00e1rio: ^77777750^000000\\nClasses: ^777777Ninjas e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2121,
+    "name": "Grimório [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Livro de magia t\\u00e3o grosso que pode ser usado como escudo por Magos.\\nINT + 1 , DEFM + 2\\nClasse:  ^777777Escudo^000000\\nDefesa: ^77777725^000000\\nPeso: ^777777100^000000\\nClasses: ^777777Mago e suas evolu\\u00e7\\u00f5es, Espiritualista^000000"
+  },
+  {
+    "id": 2122,
+    "name": "Escudo de Platina",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Um magn\\u00edfico escudo de platina.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Morto-Vivo +10%.^000000\\n^0000ffResist\\u00eancia a oponentes de tamanho M\\u00e9dio e Grande +15%.^000000\\n--------------------------\\nAo receber danos m\\u00e1gicos:\\n^0000ff15% de chance de autoconjurar [Reflex\\u00e3o M\\u00e1gica] nv.7.^000000 \\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777795^000000 DEFM: ^7777775^000000\\nPeso: ^777777120^000000\\nN\\u00edvel necess\\u00e1rio: ^77777768^000000\\nClasses: ^777777Transclasses^000000"
+  },
+  {
+    "id": 2123,
+    "name": "Travessa de Orleans [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Uma placa de a\\u00e7o redonda e brilhante, usada para servir comida.\\n^0000ffDEFM +2.^000000\\nAo receber dano m\\u00e1gico de alvo \\u00fanico:\\n^0000ff5% de chance de refletir a magia.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Luvas de Orleans]^000000\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -10%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777775^000000\\nPeso: ^777777100^000000\\nN\\u00edvel necess\\u00e1rio: ^77777755^000000\\nClasses: ^777777Transclasses, exceto Aprendizes^000000"
+  },
+  {
+    "id": 2124,
+    "name": "Escudo Farpado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo bruto, com d\\u00fazias de estacas. Um agressor pode ficar muito machucado. \\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Chifres de Bis\\u00e3o]^000000\\n^0000ffReflete 5% do dano recebido.^000000\\n^0000ffVelocidade de ataque +10%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777785^000000 DEFM: ^7777772^000000\\nPeso: ^777777100^000000\\nN\\u00edvel necess\\u00e1rio: ^77777755^000000\\nClasses: ^777777Transclasses, exceto Aprendizes^000000"
+  },
+  {
+    "id": 2125,
+    "name": "Escudo Colossal [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo maci\\u00e7o que suporta firmemente qualquer tipo de ataque. \\n--------------------------\\n^0000ffImpede o usu\\u00e1rio de ser empurrado.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a todas as propriedades^000000 ^ff0000-20%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777790^000000 DEFM: ^7777770^000000\\nPeso: ^777777250^000000\\nN\\u00edvel necess\\u00e1rio: ^77777775^000000\\nClasses: ^777777Transclasses de Espadachins, Mercadores, Gatunos e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2128,
+    "name": "Spiritus Sancti [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Personifica\\u00e7\\u00e3o do terceiro membro da sant\\u00edssima trindade, citada no livro das revela\\u00e7\\u00f5es. Apenas os soldados da divina provid\\u00eancia podem empunh\\u00e1-lo.\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^0000ffINT +2. VIT +3.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777120^000000 DEFM: ^7777773^000000\\nPeso: ^777777160^000000\\nN\\u00edvel necess\\u00e1rio: ^77777783^000000\\nClasses: ^777777Templ\\u00e1rios e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2129,
+    "name": "Bíblia de Exorcismo",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Livro que cont\\u00e9m habilidades b\\u00e1sicas para Cl\\u00e9rigos. \\n^0000FFINT +1.^000000\\n^0000FFRegenera\\u00e7\\u00e3o natural de HP e SP +3%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Vara Sagrada]^000000\\n^0000FFDano de [Magnus Exorcismus] +20%.^000000\\nAo receber danos f\\u00edsicos:\\n^0000FF2% de chance de autoconjurar [Esconjurar] nv. 1.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777780^000000\\nPeso: ^77777760^000000\\nN\\u00edvel necess\\u00e1rio: ^77777750^000000\\nClasses: ^777777Sacerdotes, Monges e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2130,
+    "name": "Escudo Cruzado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Grande escudo no formato de uma cruz.\\n--------------------------\\n^0000ffFOR +1.^000000\\n^0000ffCusto de SP das habilidades^000000 ^ff0000+10%.^000000\\n^0000ffDano de [Choque R\\u00e1pido] e [Escudo Bumerangue] +30%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777130^000000 DEFM: ^7777770^000000\\nPeso: ^777777200^000000\\nN\\u00edvel necess\\u00e1rio: ^77777780^000000\\nClasses: ^777777Templ\\u00e1rios e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2131,
+    "name": "Bíblia da Magia, Vol. 1 [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Livro pesado com mensagens obscuras.\\n--------------------------\\n^0000ffINT +2.^000000\\n--------------------------\\nAo receber danos f\\u00edsicos corpo a corpo:\\n^0000ff10% de chance de infligir Atordoamento no oponente.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777718^000000 DEFM: ^7777773^000000\\nPeso: ^777777100^000000\\nN\\u00edvel necess\\u00e1rio: ^77777770^000000\\nClasses: ^777777Mago T, Espiritualistas e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2132,
+    "name": "Escudo de Força [A]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Um poderoso escudo de energia m\\u00e1gica capaz de proteger contra todos os tipos de ataques.\\nReduz em 20% o dano de todos os monstros.\\nReflete 1% do dano de ataques f\\u00edsicos.\\nTipo: ^777777Escudo^000000\\nDefesa: ^777777140^000000\\nPeso: ^7777770^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2133,
+    "name": "Escudo de Torneio [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo com espa\\u00e7o para colocar uma lan\\u00e7a. Muito eficiente para se defender. \\n^0000ffDano f\\u00edsico +1%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09Qualquer 1 dos itens abaixo^000000\\n^FA4E09[Lan\\u00e7a Longa] ou^000000\\n^FA4E09[Lan\\u00e7a de Ca\\u00e7a] ou^000000\\n^FA4E09[Lan\\u00e7a de Gancho]^000000\\n^0000ffDEF +2.^000000\\n^0000ffDano f\\u00edsico +4% adicional.^000000\\nCavaleiros e evolu\\u00e7\\u00f5es:\\n^0000ffVelocidade de ataque -5%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^777777105^000000\\nPeso: ^777777100^000000\\nN\\u00edvel necess\\u00e1rio: ^77777750^000000\\nClasses: ^777777Espadachins T. e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2134,
+    "name": "Escudo de Escamas de Naga [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo duro e firme, feito das escamas de Naga. \\nEssas escamas s\\u00e3o afiadas como l\\u00e2minas.\\n--------------------------\\nAo receber danos f\\u00edsicos:\\n^0000ff1% de chance de ativar um [Efeito] por 5 segundos.^000000\\n--------------------------\\nA cada 2 refinos a partir do +10:\\n^0000ffDura\\u00e7\\u00e3o do efeito +1 segundo.^000000\\n--------------------------\\n^CD3278Efeito:^000000\\n^0000ffReflete +3% dos danos f\\u00edsicos recebidos.^000000\\nA cada refino at\\u00e9 o +10:\\n^0000ffReflete +1%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777735^000000 DEFM: ^7777773^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Transclasses 2-1 e 2-2^000000"
+  },
+  {
+    "id": 2135,
+    "name": "Escudo das Sombras [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo pequeno e preto que pode ser usado no bra\\u00e7o.\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09Passos das Sombras [0]^000000\\nAo receber danos f\\u00edsicos:\\n^0000ff20% de chance de infligir Cegueira nos oponentes.^000000\\n^0000ff2% de chance de ativar um [efeito] por 10 segundos.^000000\\n--------------------------\\n^CD3278Efeito:^000000\\n^0000ffEsquiva +20.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777752^000000 DEFM: ^7777770^000000\\nPeso: ^77777780^000000\\nN\\u00edvel necess\\u00e1rio: ^77777770^000000\\nClasses: ^777777Desordeiros e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2138,
+    "name": "Escudo de Bradium [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo de Bradium, pesado e forte.\\n--------------------------\\n^0000ffAGI^000000 ^ff0000-1.^000000 ^0000ffHP m\\u00e1x. +500.^000000\\n^0000ffDano de [Escudo Bumerangue] +60%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777798^000000 DEFM: ^7777770^000000\\nPeso: ^777777180^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Transclasses^000000"
+  },
+  {
+    "id": 2139,
+    "name": "Lança-Chamas",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Lan\\u00e7a um poderoso jato de fogo para causar dano no oponente.\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777760^000000\\nPeso: ^777777200^000000\\nN\\u00edvel necess\\u00e1rio: ^77777799^000000\\nClasses: ^777777Apenas Mec\\u00e2nicos^000000"
+  },
+  {
+    "id": 2140,
+    "name": "Escudo Espiritual [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo com decora\\u00e7\\u00e3o de asas que emana energia r\\u00fanica e fortalece o esp\\u00edrito.\\nSP +2%\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777770^000000\\nPeso: ^7777770^000000\\nN\\u00edvel necess\\u00e1rio: ^7777799^000000\\nClasses: ^777777Cavaleiro R\\u00fanico^000000"
+  },
+  {
+    "id": 2146,
+    "name": "Vembrassa Prateada [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo com gravuras em prata e a\\u00e7o. A decora\\u00e7\\u00e3o reflete a luz de forma bela.\\nClasse: ^777777Escudo^000000\\nDefesa: ^77777760^000000\\nPeso: ^77777730^000000\\nN\\u00edvel necess\\u00e1rio: ^77777722^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2147,
+    "name": "Escudo Redondo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo redondo fortalecido com Elunium muito usado por diversos ex\\u00e9rcitos.\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777790^000000 DEFM: ^7777770^000000\\nPeso: ^77777760^000000\\nN\\u00edvel necess\\u00e1rio: ^77777722^000000\\nClasses: ^777777Todas as transclasses, exceto Aprendizes^000000"
+  },
+  {
+    "id": 2148,
+    "name": "Escudo de Pétalas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo criado com metal do outro mundo. Ele se assemelha a uma flor desabrochando devido \\u00e0s pe\\u00e7as met\\u00e1licas ao seu redor.\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777130^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Espadachins e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2149,
+    "name": "Vembrassa Evoluída [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo quadrado, pequeno mas efetivo para bloquear ataques inimigos.\\n^0000ffM\\u00e1ximo HP + 3%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777725^000000\\nPeso: ^77777715^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2150,
+    "name": "Broquel Evoluído [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo redondo com uma al\\u00e7a para segurar.\\n^0000ffM\\u00e1ximo HP + 3%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777745^000000\\nPeso: ^77777730^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Espadachim, Novi\\u00e7o, Mercador, Gatuno e evolu\\u00e7\\u00f5es. Bardo e Odalisca^000000"
+  },
+  {
+    "id": 2151,
+    "name": "Escudo Evoluído [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo de fabrica\\u00e7\\u00e3o precisa, quase impenetr\\u00e1vel a ataques.\\n^0000ffM\\u00e1ximo HP +3%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^7777778^000000\\nPeso: ^77777765^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Espadachim e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2153,
+    "name": "Guarda Imperial [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um belo escudo com os s\\u00edmbolos do Reino gravados em seu corpo.\\n^0000ffDEFM +5.^000000\\n^0000ffDano de [Escudo Compressor] +20%.^000000\\nA cada refino acima do +6:\\n^0000ffDano de [Escudo Compressor] +2%.^000000\\nTipo: ^777777escudo^000000 \\nDefesa: ^777777120^000000\\nPeso: ^777777250^000000\\nN\\u00edvel Necess\\u00e1rio: ^777777102^000000\\nClasse: ^777777Guardi\\u00e3o Real^000000"
+  },
+  {
+    "id": 2154,
+    "name": "Escudo de Brinquedo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo feito de pl\\u00e1stico. N\\u00e3o subestime esse brinquedo!\\n^0000ffEsquiva Perfeita +2.^000000\\nN\\u00edvel Base 79 ou menos:\\n^0000ffEsquiva +5.^000000\\n^0000ffResist\\u00eancia a propriedade Neutro +5%.^000000\\nRefino +6 ou mais:\\n^0000ffEsquiva Perfeita +3 adicional.^000000\\nTipo: ^777777Escudo^000000 \\nDefesa: ^7777771^000000 \\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777710^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2156,
+    "name": "Bíblia da Promessa (Volume 1) [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um livro antigo de can\\u00e7\\u00f5es sagradas entregue na catedral. Dizem que ele vendeu como banana e foi publicado como parte de uma s\\u00e9rie.\\n--------------------------\\n^0000ffHabilita [Poder de Odin] nv.1.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777710^000000 DEFM: ^7777772^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^777777110^000000\\nClasses: ^777777Arcebispos e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2158,
+    "name": "Refletor dos Malditos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo refletor que bloqueia maldi\\u00e7\\u00f5es e afugenta inimigos indesejados.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Humanoide^000000 ^ff0000-5%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Maldito +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2159,
+    "name": "Escudo Coral [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Lindo escudo forjado com metais especiais, que causaram uma rea\\u00e7\\u00e3o e deu esse tom avermelhado lindo e muito brilhante, um luxo s\\u00f3.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Dem\\u00f4nio^000000 ^ff0000-5%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Fogo +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2160,
+    "name": "Escudo Gigante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Reprodu\\u00e7\\u00e3o do escudo dos gigantes guardi\\u00f5es do Templo Antigo. Um ferreiro lend\\u00e1rio concedeu a ele o poder dos guardi\\u00f5es.\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de tamanho Grande +5%.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de tamanho Grande +5% adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777130^000000 DEFM: ^7777770^000000\\nPeso: ^777777280^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Espadachins e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2161,
+    "name": "Livro Antigo de Geffenia - Água [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "O continente esquecido de Geffenia guarda um tesouro secreto. Poucos s\\u00e3o os que podem usar a magia desta arma.\\n--------------------------\\n^0000ffINT +1.^000000\\n--------------------------\\nINT base 120 ou mais:\\n^0000ffATQM +10.^000000\\n^0000ffHP m\\u00e1x. +800.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Bast\\u00e3o de L\\u00e1grimas]^000000\\nA cada refino do escudo:\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel de [Nevasca], [Zero Absoluto] e [Esquife de Gelo] -4%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777730^000000 DEFM: ^7777772^000000\\nPeso: ^777777100^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Arcanos^000000"
+  },
+  {
+    "id": 2162,
+    "name": "Bíblia da Promessa (Volume 2) [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um livro antigo de m\\u00fasicas sacras cantadas na catedral.\\n--------------------------\\n^0000ffEfetividade de cura +5%.^000000\\n^0000ffHabilita [Poder de Odin] nv.2.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777720^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^777777140^000000\\nClasses: ^777777Arcebispos e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2163,
+    "name": "Escudo Cerúleo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo que reflete o azul do c\\u00e9u e os ataques inimigos. Ao olhar para o escudo, \\u00e9 poss\\u00edvel observar a imensid\\u00e3o do infinito.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Bruto^000000 ^ff0000-5%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade \\u00c1gua +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2164,
+    "name": "Escudo Brilhante [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo m\\u00e1gico que permite se defender de ataques de alguns tipos.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Morto-Vivo^000000 ^ff0000-5%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Sombrio +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2165,
+    "name": "Escudo Solar [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo m\\u00e1gico, aben\\u00e7oado pela deusa Sigel, tamb\\u00e9m conhecida como Sol.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Planta^000000 ^ff0000-5%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Terra +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2166,
+    "name": "Bíblia de Exorcismo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Livro que cont\\u00e9m habilidades b\\u00e1sicas para Cl\\u00e9rigos. \\n^0000FFINT +1.^000000\\n^0000FFRegenera\\u00e7\\u00e3o natural de HP e SP +3%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Vara Sagrada]^000000\\n^0000FFDano de [Magnus Exorcismus] +20%.^000000\\nAo receber danos f\\u00edsicos:\\n^0000FF2% de chance de autoconjurar [Esconjurar] nv. 1.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777780^000000\\nPeso: ^77777760^000000\\nN\\u00edvel necess\\u00e1rio: ^77777750^000000\\nClasses: ^777777Sacerdotes, Monges e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2167,
+    "name": "Escudo do Mestre dos Venenos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Capaz de resistir e repelir todos os tipos de veneno gra\\u00e7as aos muitos anos dedicados ao estudo do Mestre dos Venenos, antigo dono deste escudo.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Planta^ff0000-5%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Veneno +5%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Sapatos do Mestre Dos Venenos]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Veneno +5%.^000000\\nA cada refino do escudo:\\n^0000ffResist\\u00eancia a propriedade Veneno +2%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2168,
+    "name": "Escudo Celestial [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um ex\\u00f3tico escudo retangular. Nele h\\u00e1 uma gema m\\u00e1gica, encantada para defender contra ataques.\\n^0000ffRefino +5 ou mais:^000000\\n^0000ffResist\\u00eancia a propriedade Neutro +1%.^000000\\nRefino +6 ou mais:\\n^0000ffResist\\u00eancia a propriedade Neutro +1% adicional.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a propriedade Neutro +6% adicional.^000000\\nRefino +8 ou mais:\\n^0000ffResist\\u00eancia a propriedade Neutro +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a propriedade Neutro +1% adicional.^000000\\n^0000ffResist\\u00eancia as propriedades Fogo, \\u00c1gua, Terra e Vento +5%.^000000\\nRefino +10 ou mais:\\n^0000ffResist\\u00eancia a propriedade Neutro +1% adicional.^000000\\nRefino +11 ou mais:\\n^0000ffResist\\u00eancia a propriedade Neutro +1% adicional.^000000\\nRefino +12 ou mais:\\n^0000ffResist\\u00eancia a propriedade Neutro +1% adicional.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777755^000000\\nPeso: ^77777770^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2169,
+    "name": "Kalasag",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Escudo pr\\u00e1tico, firme e leve, feito de junco\\n^0000ffA cada 3 refinos:^000000\\n^0000ffResist\\u00eancia a Chefes +1%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Roupa de Buwaya]^000000\\n^FA4E09[Botas de Bangungot]^000000\\n^FA4E09[Armadura de Bakonawa]^000000\\n^0000ffHP e SP m\\u00e1x. +10%.^000000\\n^0000ffResist\\u00eancia a Malayanos +30%.^000000\\nMalayanos afetados:\\n^0000ffManananggal, Mangkukulan, Bakonawa, Bangungot, Buwaya, Alga, Escravos de Buwaya, Bungisngis, Engkanto, Wakwak, Jejeling, Tiyaniak e Tikbalang.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777740^000000\\nPeso: ^77777740^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2170,
+    "name": "Kalasag Bayani [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo pr\\u00e1tico, firme e leve, feito de junco\\n^0000ffA cada 3 refinos:^000000\\n^0000ffResist\\u00eancia a Chefes +1%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777740^000000\\nPeso: ^77777740^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2171,
+    "name": "Proteção de Braço da Raposa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Prote\\u00e7\\u00e3o de bra\\u00e7o com um desenho de raposa encantadora. Voc\\u00ea se sente \\u00e1gil ao us\\u00e1-la.\\n^0000ffEsquiva +5.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777745^000000\\nPeso: ^77777720^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Ninjas e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2172,
+    "name": "Proteção de Braço do Lobo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Prote\\u00e7\\u00e3o de bra\\u00e7o com um desenho de lobo amea\\u00e7ador. Voc\\u00ea sente um instinto selvagem ao us\\u00e1-la.\\n^0000ffAo realizar ataques f\\u00edsicos de curta dist\\u00e2ncia:^000000\\n^0000ff2% de chance de ativar um [efeito] por 5 segundos.^000000\\n^CD3278Efeito:^000000\\n^0000ffATQ +100.^000000\\n^0000ffEsquiva -50.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777770^000000\\nPeso: ^77777725^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Ninjas e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2173,
+    "name": "Proteção de Braço da Lua Crescente [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Prote\\u00e7\\u00e3o de bra\\u00e7o com um desenho brilhante de lua crescente. Voc\\u00ea sente uma plenitude m\\u00edstica ao us\\u00e1-la.\\n^0000ffA cada refino:^000000\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -2%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777745^000000\\nPeso: ^77777725^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Ninjas e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2174,
+    "name": "Escudo Lumiere [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Para refletir a luz e as for\\u00e7as do mal, o Escudo Lumiere n\\u00e3o tem concorrente igual! \\u00c9 t\\u00e3o brilhante quanto dentes bem escovados e pratarias limpinhas!\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Drag\\u00e3o^000000 ^ff0000-5%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Sagrado +5%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Sapatos Lumiere]^000000\\n^0000ffResist\\u00eancia a oponentes da propriedade Sagrado +5% adicional.^000000\\nA cada refino do escudo:\\n^0000ffResist\\u00eancia a propriedade Sagrado +2%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2176,
+    "name": "Livro Obscuro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um assustador livro gigantesco encontrado em uma busca feita em Nifflheim.\\nDe t\\u00e3o grande, pode ser utilizado como escudo. S\\u00f3 de toc\\u00e1-lo voc\\u00ea j\\u00e1 se sente enfraquecido.\\nAo receber danos f\\u00edsicos:\\n^0000ff1% de chance de autoconjurar [Terror Draconiano] nv. 1.^000000\\nRefino +7 ou mais:\\n^0000ffN\\u00edvel autoconjurado de [Terror Draconiano] +1.^000000\\n^0000ffChance de autoconjurar [Terror Draconiano] +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffN\\u00edvel autoconjurado de [Terror Draconiano] +1 adicional.^000000\\n^0000ffChance de autoconjurar [Terror Draconiano] +1% adicional.^000000\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2177,
+    "name": "Escudo do Abismo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo gigante, forjado para o Senhor dos Mortos.\\n^0000ffDano f\\u00edsico contra monstros Chefes +2%.^000000\\n^0000ffResist\\u00eancia a monstros normais -10%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Elmo do Senhor da Morte]^000000\\n^0000ffDano f\\u00edsico contra monstros Chefes +5% adicional.^000000\\nElmo com refino +7 ou mais:\\n^0000ffDano f\\u00edsico contra monstros Chefes +5% adicional.^000000\\nTipo: ^777777Escudo^000000 \\nDEF: ^777777150^000000 DEFM: ^7777770^000000\\nPeso: ^777777200^000000\\nN\\u00edvel Necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2178,
+    "name": "Broquel TE",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "^ff0000N\\u00e3o pode ser negociado.^000000\\n^000088Item de aluguel^000000\\nEscudo de treinamento para a Guerra do Emperium. \\n^0000ffDEFM +15.^000000\\n^6A5ACDEm castelos da GDE TE:^000000\\n^0000ffHP e SP m\\u00e1x. +100.^000000\\n^0000ffResist\\u00eancia a ra\\u00e7a Humano +15%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777715^000000\\nPeso: ^7777770^000000\\nN\\u00edvel necess\\u00e1rio: ^77777740^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2179,
+    "name": "Escudo TE",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "^ff0000N\\u00e3o pode ser negociado.^000000\\n^000088Item de aluguel^000000\\nEscudo de treinamento para a Guerra do Emperium. \\n^0000ffDEFM +5.^000000\\n^6A5ACDEm castelos da GDE TE:^000000\\n^0000ffHP m\\u00e1x. +200.^000000\\n^0000ffResist\\u00eancia a ra\\u00e7a Humano +20%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777725^000000\\nPeso: ^7777770^000000\\nN\\u00edvel necess\\u00e1rio: ^77777740^000000\\nClasses: ^777777Espadachins, Mercadores e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2180,
+    "name": "Vembrassa Mágica TE",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "^ff0000N\\u00e3o pode ser negociado.^000000\\n^000088Item de aluguel^000000\\nEscudo de treinamento para a Guerra do Emperium. \\n^0000ffDEFM +25.^000000\\n^6A5ACDEm castelos da GDE TE:^000000\\n^0000ffSP m\\u00e1x. +200.^000000\\n^0000ffResist\\u00eancia a ra\\u00e7a Humano +10%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^7777775^000000\\nPeso: ^7777770^000000\\nN\\u00edvel necess\\u00e1rio: ^77777740^000000\\nClasses: ^777777Aprendizes, Superaprendizes, Magos, Espiritualistas, Novi\\u00e7os e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2181,
+    "name": "Hervor",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Um escudo nomeado em homenagem a Hervor, a Valqu\\u00edria que garante a vit\\u00f3ria de seus guerreiros.\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^a400cdN\\u00e3o pode ser refinado.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a todas as ra\\u00e7as +30%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777100^000000 DEFM: ^7777775^000000\\nPeso: ^777777150^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2182,
+    "name": "Hervor Alvitr",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Um escudo nomeado em homenagem a Hervor, a Valqu\\u00edria que garante a vit\\u00f3ria de seus guerreiros. Foi encantando com um grande poder.\\nVIT + 20, DEFM + 10.\\nReduz o dano recebido de outros jogadores em 30%.\\nAo atacar fisicamente, chance de auto conjurar 'Luz Protetora'.\\nLuz Protetora cancela automaticamente Atordoamento, Sono, Maldi\\u00e7\\u00e3o, Petrifica\\u00e7\\u00e3o, Veneno, Cegueira, Sil\\u00eancio, Sangramento, Caos e Hipotermia, e mantem o usu\\u00e1rio protegido desses status negativos por um determinado tempo.\\nN\\u00e3o pode ser refinado.\\nIndestrut\\u00edvel.\\nTipo: ^777777Escudo^000000 Def : ^777777150^000000\\nPeso: ^777777300^000000\\nN\\u00edvel Necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Classes 3^000000"
+  },
+  {
+    "id": 2183,
+    "name": "Guardião Arcangelical [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Equipamento especial dos Superaprendizes. Aben\\u00e7oado pelo Arcanjo Guardi\\u00e3o.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Dem\\u00f4nio +5%.^000000\\n--------------------------\\n^0000ffResist\\u00eancia as propriedades Fogo, \\u00c1gua, Terra, Vento, Fantasma, Maldito, Sombrio, Sagrado e Veneno +5%.^000000\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09[Reencarna\\u00e7\\u00e3o do Arcanjo]^000000\\n^0000ffResist\\u00eancia a propriedade Neutro +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777730^000000 DEFM: ^7777770^000000\\nPeso: ^77777740^000000\\nN\\u00edvel necess\\u00e1rio: ^77777799^000000\\nClasses: ^777777Aprendizes e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2185,
+    "name": "Refletor Mágico [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo altamente preparado para refletir feiti\\u00e7os.\\n--------------------------\\n^0000ffAo receber dano m\\u00e1gico de alvo \\u00fanico, 3% de chance de refletir a magia.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffChance de reflex\\u00e3o +3% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffChance de reflex\\u00e3o +3% adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^77777710^000000\\nPeso: ^777777100^000000\\nN\\u00edvel necess\\u00e1rio: ^77777799^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2186,
+    "name": "Enciclopédia Revisada [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Uma edi\\u00e7\\u00e3o revisada de uma enciclop\\u00e9dia publicada em Prontera. \\u00c9 t\\u00e3o robusto que d\\u00e1 para usar como escudo!\\n--------------------------\\n^0000ffINT +3. DES +2.^000000\\n^0000ffCRIT +3. ATQM +5.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffCRIT +2 adicional.^000000\\nRefino +9 ou mais:\\n^0000ffATQM +5 adicional.^000000\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09[Enciclop\\u00e9dia]^000000\\nA cada refino da arma:\\n^0000ffVelocidade de ataque +1%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^77777720^000000\\nN\\u00edvel necess\\u00e1rio: ^77777799^000000\\nClasses: ^777777Sacerdotes, Mestres Taekwons, S\\u00e1bios e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 2187,
+    "name": "Escudo de Cinzas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Esculpido com Fragmentos de Cinzas e infundido com as mem\\u00f3rias abandonadas de Sakray, este escudo protege o usu\\u00e1rio da amea\\u00e7a divina.\\n^0000ffDEFM +10.^000000\\n^0000ffResist\\u00eancia a propriedade Sagrado +30%.^000000\\nA cada refino:\\n^0000ffResist\\u00eancia a propriedade Sagrado +1%.^000000\\nA cada 3 refinos:\\n^0000ffDEFM +1.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^77777775^000000\\nPeso: ^777777200^000000\\nN\\u00edvel necess\\u00e1rio: ^777777120^000000\\nClasses: ^777777Terceiras classes^000000"
+  },
+  {
+    "id": 2188,
+    "name": "Escudo de Svalinn [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Este escudo, cujo nome significa \\u201cResfriador\\u201d, irradia uma gelada energia congelante. Dizem que os deuses o haviam colocado na frente da carruagem que carregava o sol pelo firmamento, para impedir que ele queimasse a Terra.\\n^0000ffResist\\u00eancia a propriedade \\u00c1gua +10%.^000000\\nA cada 3 refinos:\\n^0000ffHP m\\u00e1x. +1%.^000000\\n^0000ffResist\\u00eancia a propriedade \\u00c1gua +5%.^000000\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2189,
+    "name": "Escudo da Piamette [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um coelho fofinho e macabro que pertenceu \\u00e0 Piamette. Ele ainda carrega parte da ess\\u00eancia de sua antiga dona.\\n^0000ffDES +1.^000000\\n^0000ffDEFM +6.^000000\\n^0000ffResist\\u00eancia a todas as propriedades +5%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Lacinho da Piamette]^000000\\nA partir do refino +7 do escudo:\\n^0000ffResist\\u00eancia a todas as propriedades +2% por refino do escudo.^000000\\nTipo: ^777777Escudo^000000 \\nDefesa: ^77777740^000000 \\nPeso: ^77777710^000000\\nN\\u00edvel necess\\u00e1rio: ^77777730^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2190,
+    "name": "Escudo do Dragão [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Esse escudo passou 200 anos sendo banhado pela cachoeira nas ra\\u00edzes da Yggdrasil. Por isso foi classificado pelo Anci\\u00e3o Mestre como um dos escudos mais resistentes de Rune-Midgard, dono da defesa perfeita. \\n^0000ffHP m\\u00e1x. +500.^000000\\n^0000ffSP m\\u00e1x. +50.^000000\\n^0000ffResist\\u00eancia a todas as propriedades +10%.^000000\\nRefino +14 ou mais:\\n^0000ffHabilita [Petrificar] nv. 5.^000000\\nTipo: ^777777Escudo^000000\\nDEF: ^7777775^000000 DEFM: ^7777770^000000\\nPeso: ^77777720^000000\\nN\\u00edvel necess\\u00e1rio: ^777777130^000000\\nClasses: ^777777Classes 3^000000"
+  },
+  {
+    "id": 2192,
+    "name": "Escudo da Rosa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Este \\u00e9 o famoso escudo da antiga hero\\u00edna e l\\u00edder do grupo das Gemas de Cristal, Rosa de Quartzo, m\\u00e3e do jovem aventureiro Esteves Universo. Sempre que voc\\u00ea o segura, come\\u00e7a a cantarolar \\u201cn\\u00f3s, somos as Gemas de Cristal. N\\u00f3s sempre salvamos o dia!\\u201d. H\\u00e3... por que voc\\u00ea est\\u00e1 tentando colocar a gema do escudo no seu umbigo?\\n--------------------------\\n^0000ffEfetividade de cura +10%.^000000\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09[Anel Angelical]^000000\\n^0000ffEfetividade de cura +10% adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777770^000000 DEFM: ^7777770^000000\\nPeso: ^77777730^000000\\nN\\u00edvel necess\\u00e1rio: ^77777770^000000\\nClasses: ^777777Todas ^000000"
+  },
+  {
+    "id": 2193,
+    "name": "Escudo Decaído [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo que bloqueia tudo na mesma intensidade em que escorrega das m\\u00e3os do usu\\u00e1rio. Brincadeira, \\u00e9 um utens\\u00edlio firme... \\u00e0s vezes.\\n--------------------------\\nAo realizar ataques m\\u00e1gicos:\\n^0000ff5% de chance de ativar um [Efeito] por 5 segundos.^000000\\n--------------------------\\n^CD3278Efeito:^000000\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -10%.^000000\\nA cada refino a partir do +7:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777100^000000 DEFM: ^7777770^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777760^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2194,
+    "name": "Escudo de Rouban [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo usado pelo famoso gatuno Rouban para se proteger da saraivada de flechas que sempre o persegue.\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Inseto^000000 ^ff0000-5%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Vento +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2195,
+    "name": "Escudo Arco-Íris de Lian [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo imbu\\u00eddo com magia e cravado com runas de prote\\u00e7\\u00e3o. No campo de batalha, ele absorve a luz do sol e reflete todas as cores do arco-\\u00edris, concedendo prote\\u00e7\\u00e3o extra ao seu usu\\u00e1rio, al\\u00e9m de muito estiloso \\u00e9 claro. Combine com o Manto Arco-\\u00cdris de Lian e o Sapatos Arco-\\u00cdris de Lian e voc\\u00ea ser\\u00e1 imbat\\u00edvel!\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Amorfo^000000 ^ff0000-5%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Neutro +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^777777130^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2196,
+    "name": "Escudo de Ouro Branco [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo feito totalmente de ouro branco, material rar\\u00edssimo! Al\\u00e9m de muito bonito tem propriedades m\\u00e1gicas que concedem ainda mais poder ao usu\\u00e1rio!\\n--------------------------\\nAo receber danos m\\u00e1gicos:\\n^0000ff15% de chance de autoconjurar [Reflex\\u00e3o M\\u00e1gica] nv.6.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777140^000000 DEFM: ^7777770^000000\\nPeso: ^777777180^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 4012,
+    "name": "Carta Ovo de Besouro-Ladrão",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffM\\u00e1x. HP +400^000000\\nCombine com um item para utilizar sua propriedade. \\nClasse: ^777777Carta^000000\\nEquipa em:  ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4013,
+    "name": "Carta Ovo de Andre",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffM\\u00e1x. HP +5% ^000000\\nCombine com um item para utilizar sua propriedade. \\nClasse: ^777777Carta^000000\\nEquipa em:  ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4032,
+    "name": "Carta Ambernite",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +2^000000\\nCombine com um item para utilizar sua propriedade. \\nClasse: ^777777Carta^000000\\nEquipa em:  ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4045,
+    "name": "Carta Besouro-Chifre",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "Resist\\u00eancia a danos f\\u00edsicos a dist\\u00e2ncia +35%.\\nClasse: ^777777Carta^000000\\nEquipa em:  ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4058,
+    "name": "Carta Sapo de Thara",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia as ra\\u00e7as Humano e Humanoide +30%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4059,
+    "name": "Carta Soldado Andre",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffReduz em 30% o dano causado por monstros da ra\\u00e7a Planta.^000000\\nCombine com um item para utilizar sua propriedade. \\nClasse: ^777777Carta^000000\\nEquipa em:  ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4066,
+    "name": "Carta Guerreiro Orc",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia as ra\\u00e7as Bruto e Doram +30%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4067,
+    "name": "Carta Megalodon",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +1.^000000\\n^0000ffToler\\u00e2ncia a Congelamento +20%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4074,
+    "name": "Carta Pé-Grande",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Inseto +30%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4075,
+    "name": "Carta Argos",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^000000Concede 20% de resist\\u00eancia contra [Petrifica\\u00e7\\u00e3o], DEF +1.^000000\\nCombine com um item para utilizar sua propriedade. \\nClasse: ^777777Carta^000000\\nEquipa em:  ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4083,
+    "name": "Carta Rafflesia",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Peixe +30%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4090,
+    "name": "Carta Munak",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +1.^000000\\n^0000ffToler\\u00e2ncia a Petrifica\\u00e7\\u00e3o +15%.^000000\\n^0000ffResist\\u00eancia a propriedade Terra +5%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4120,
+    "name": "Carta Petite Voador",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Drag\\u00e3o +30%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4124,
+    "name": "Carta Medusa",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffToler\\u00e2ncia a Petrifica\\u00e7\\u00e3o +100%.^000000\\n^0000ffResist\\u00eancia a ra\\u00e7a Dem\\u00f4nio +15%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4128,
+    "name": "Carta Besouro-Ladrão Dourado",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "Impede ser afetado por habilidades m\\u00e1gicas, incluindo as n\\u00e3o-ofensivas.\\nCusto de SP de habilidades +100%.\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4136,
+    "name": "Carta Khalitzburg",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Dem\\u00f4nio +30%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4138,
+    "name": "Carta Anubis",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Anjo +30%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4146,
+    "name": "Carta Maya",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "50% de chance de refletir magias de alvo \\u00fanico recebidas. \\nTipo: ^777777Carta^000000 \\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4207,
+    "name": "Carta Mysteltainn",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +1.^000000\\n^0000ffResist\\u00eancia a oponentes de tamanho Pequeno +25%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4217,
+    "name": "Carta Pessegueira Encantada",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "Ao realizar ataques f\\u00edsicos:\\n^0000ff2% de chance de autoconjurar [Curar] nv.1.^000000\\n--------------------------\\nAo aprender [Curar] nv.10:\\n^0000ffAutoconjura [Curar] nv.10.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4226,
+    "name": "Carta Sting",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +2.^000000\\nRefino +9 ou mais:\\n^0000ffDEFM +5.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4231,
+    "name": "Carta Mi Gao",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a Guardi\\u00f5es +50%.^000000\\n--------------------------\\nGuardi\\u00f5es da Guerra do Emperium afetados:\\n^0000ffArqueiro Guardi\\u00e3o, Cavaleiro Guardi\\u00e3o e Soldado Guardi\\u00e3o.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4240,
+    "name": "Carta Arclouse",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +2.^000000\\n^0000ffDEFM +3.^000000\\n--------------------------\\nRefino +6 ou mais:\\n^0000ffDEF^000000 ^ff0000-2.^000000\\n^0000ffDEFM^000000 ^ff0000-3.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4248,
+    "name": "Carta Múmia Anciã",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "Ao receber ataques f\\u00edsicos:\\n^0000ff3% de chance de autoconjurar [Signum Crucis] nv. 5.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta M\\u00famia]^000000\\n^0000ffPrecis\\u00e3o perfeita +20.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4250,
+    "name": "Carta Executor",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +1.^000000\\n^0000ffResist\\u00eancia a oponentes de tamanho Grande +25%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4253,
+    "name": "Carta Alice",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a monstros chefes +40%.^000000\\n^0000ffResist\\u00eancia a monstros normais^000000 ^ff0000-40%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4254,
+    "name": "Carta Tirfing",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +1.^000000\\n^0000ffResist\\u00eancia a oponentes de tamanho M\\u00e9dio +25%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4277,
+    "name": "Carta Jirtas",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffSOR +2.\\nInflige 10% a mais de dano com as habilidades Estilingue e Flecha Mel\\u00f3dica.^000000\\nCombine com um item para utilizar sua propriedade. \\nClasse: ^777777Carta^000000\\nUtiliza\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4304,
+    "name": "Carta Tamruan",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +2.^000000\\n^0000ffDano de [Puni\\u00e7\\u00e3o Divina] e [Escudo Bumerangue] +10%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4309,
+    "name": "Carta Parasita",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +1.^000000\\n^0000ffResist\\u00eancia a propriedade Neutro +5%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4314,
+    "name": "Carta Penomena",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Amorfo +30%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4322,
+    "name": "Carta Grand Orc",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffReflete 5% de cada Dano de Ataque F\\u00edsico.      \\nDEF +1.^000000\\nCombine com um item para utilizar sua propriedade. \\nClasse: ^777777Carta^000000\\nUtiliza\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4340,
+    "name": "Carta Ursinho",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Morto-Vivo +30%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4397,
+    "name": "Carta Despero de Thanatos",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffINT -6.^000000\\nA cada refino:\\n^0000ffINT +1.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4413,
+    "name": "Carta Hodremlin",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de todos os Tamanhos +15%.^000000\\n--------------------------\\nAo receber danos f\\u00edsicos ou m\\u00e1gicos:\\n^0000ff0,3% de chance de ativar um [efeito] por 10 segundos.^000000 \\n--------------------------\\n^CD3278Efeito:^000000\\n^0000ffEsquiva perfeita +30.^000000 \\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4414,
+    "name": "Carta Rastreador",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "Ativa Petrificar nv. 1. 30% de toler\\u00e2ncia contra Petrifica\\u00e7\\u00e3o. DEFM + 10.\\nTipo de Item: ^777777Carta^000000\\nClasse: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4420,
+    "name": "Carta Muscipular",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "Ao receber danos f\\u00edsicos corpo a corpo:\\n^0000ff10% de chance de autoconjurar [Curar] ou [Aumentar Agilidade] nv.1.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4439,
+    "name": "Carta Crânio Flamejante",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffToler\\u00e2ncia a Petrifica\\u00e7\\u00e3o, Atordoamento, Maldi\\u00e7\\u00e3o e Cegueira +30%.^000000\\nAo sofrer danos f\\u00edsicos de curto ou longo alcance:\\n^0000ff5% de chance de infligir Petrifica\\u00e7\\u00e3o, Atordoamento, Maldi\\u00e7\\u00e3o ou Cegueira no oponente.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4442,
+    "name": "Carta Tatacho",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade Neutro +20%.^000000\\n^0000ffDano f\\u00edsico contra oponentes de propriedade Neutro +5%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4443,
+    "name": "Carta Elemental da Água",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade \\u00c1gua +20%.^000000\\n^0000ffDano f\\u00edsico contra oponentes de propriedade \\u00c1gua +5%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4444,
+    "name": "Carta Draco",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade Terra +20%.^000000\\n^0000ffDano f\\u00edsico contra oponentes de propriedade Terra +5%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4445,
+    "name": "Carta Vespa Vagalume",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade Vento +20%.^000000\\n^0000ffDano f\\u00edsico contra oponentes de propriedade Vento +5%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4447,
+    "name": "Carta Centopéia",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade Veneno +20%.^000000\\n^0000ffDano f\\u00edsico contra oponentes de propriedade Veneno +5%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4448,
+    "name": "Carta Cornus",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade Sagrado +20%.^000000\\n^0000ffDano f\\u00edsico contra oponentes de propriedade Sagrado +5%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4449,
+    "name": "Carta Sombra Obscura",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade Sombrio +20%.^000000\\n^0000ffDano f\\u00edsico contra oponentes de propriedade Sombrio +5%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4515,
+    "name": "Carta Rafflesia Alnoldi",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Planta +30%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4609,
+    "name": "Carta Cavaleira Khalitzburg",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +20.^000000\\n^0000ffResist\\u00eancia a oponentes de tamanho M\\u00e9dio e Grande +25%.^000000\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09[Carta Cavaleiro Branco]^000000\\n^0000ffResist\\u00eancia a oponentes de tamanho M\\u00e9dio e Grande +5% adicional.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000 \\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4628,
+    "name": "Carta Neo Punk",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia as ra\\u00e7as Amorfo e Dem\\u00f4nio +25%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Marca-Tempo]^000000\\n^0000ffResist\\u00eancia as ra\\u00e7as Amorfo e Dem\\u00f4nio +5% adicional.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Despertador]^000000\\n^0000ffResist\\u00eancia as ra\\u00e7as Amorfo e Dem\\u00f4nio +5% adicional.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4636,
+    "name": "Carta Bijou",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDano f\\u00edsico e m\\u00e1gico +10%.^000000\\n^0000ffToler\\u00e2ncia a Congelamento +100%.^000000\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09[Carta Amdarais Imortal]^000000\\n^0000ffResist\\u00eancia as propriedades Sombrio e Maldito +100%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nClasses: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4641,
+    "name": "Carta Zumbi da Guarda",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffRegenera\\u00e7\\u00e3o natural de SP^000000 ^ff0000-100%.^000000\\n--------------------------\\nAo sofrer ataques f\\u00edsicos:\\n^0000ffRecupera 1 de SP.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4653,
+    "name": "Carta Arclouse do Pesadelo",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia as ra\\u00e7as Bruto e Morto-Vivo +20%.^000000\\n^fa4e09Conjunto^000000\\n^fa4e09[Carta M\\u00edmico do Pesadelo]^000000\\n^0000ffResist\\u00eancia as ra\\u00e7as Bruto e Morto-Vivo +5% adicional.^000000\\n^fa4e09Conjunto^000000\\n^fa4e09[Carta Minorous do Pesadelo]^000000\\n^0000ffResist\\u00eancia as ra\\u00e7as Bruto e Morto-Vivo +5% adicional.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4660,
+    "name": "Carta Basilisco Guarda",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de tamanho Pequeno e M\\u00e9dio +5%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 4661,
+    "name": "Carta Basilisco Guerreiro",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de tamanho M\\u00e9dio e Grande +20%.^000000\\n^0000ffResist\\u00eancia a oponentes de tamanho Pequeno^000000 ^ff0000-15%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 24015,
+    "name": "Escudo Sombrio Festivo",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Essa pe\\u00e7a de equipamento sombrio foi forjada durante a comemora\\u00e7\\u00e3o de anivers\\u00e1rio de 13 anos do in\\u00edcio das batalhas entre humanos e monstros. Pode parecer um motivo estranho, mas desde ent\\u00e3o milhares de aventureiros passaram a buscar esse item durante outras datas especiais. Na bras\\u00e3o do escudo voc\\u00ea pode ler a inscri\\u00e7\\u00e3o 'bRO'.\\n^0000ffVIT +1.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n--------------------------\\n^ff0000Aten\\u00e7\\u00e3o! Esse item n\\u00e3o pode ser negociado, colocado no carrinho e nem derrubado no ch\\u00e3o, mas pode ser colocado no armaz\\u00e9m.^000000\\n--------------------------\\nTipo: ^777777Equipamento Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nDefesa: ^7777770^000000\\nPeso: ^7777770^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24039,
+    "name": "Escudo Sombrio AGI",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n--------------------------\\n^0000ffAGI +1.^000000\\nRefino +7 ou mais:\\n^0000ffAGI +1 adicional.^000000\\nRefino +9 ou mais:\\n^0000ffAGI +1 adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24044,
+    "name": "Escudo Sombrio VIT",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffVIT +1.^000000\\nA cada refino:\\n^0000ffDEF +1.^000000\\n^0000ffHP m\\u00e1x. +10.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Sapatos Sombrios VIT]^000000\\n^0000ffVIT +1 adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24140,
+    "name": "Escudo Sombrio de Teleporte",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHabilita [Teleporte] nv.1.^000000\\n^0000ffCusto de SP de [Teleporte]^000000 ^ff0000+50.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffCusto de SP de [Teleporte] -5.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24182,
+    "name": "Escudo Sombrio Autoportante",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffDEF +5.^000000\\nA cada 2 refinos:\\n^0000ffDEF +1.^000000\\n--------------------------\\nTipo: ^777777Equipamento Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nDefesa: ^7777770^000000\\nPeso: ^7777770^000000\\nNv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24209,
+    "name": "Escudo Sombrio do Perito",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Apesar de ser produzido de puro a\\u00e7o, esse escudo possui um v\\u00ednculo arcano com os Sapatos do Perito. \\u00c9 indicado para verdadeiros her\\u00f3is que est\\u00e3o prestes a atingir seus limites.\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\nA cada 4 refinos:\\n^0000ffEXP adquirida por monstros +1%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Perito]^000000\\n^0000ffEXP adquirida por monstros +1% adicional.^000000\\nSoma dos refinos do escudo + grevas maior ou igual a 15: \\n^0000ffEXP adquirida por monstros +1% adicional.^000000\\nTipo: ^777777Equipamento Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nDefesa: ^7777770^000000\\nPeso: ^7777770^000000\\nN\\u00edveis permitidos: ^777777150 a 175^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24213,
+    "name": "Escudo Sombrio do Novato",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Apesar de ser produzido de puro ferro, esse escudo possui um v\\u00ednculo arcano com os Sapatos do Novato. \\u00c9 indicado para aventureiros que t\\u00eam um longo caminho evolutivo pela frente.\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\nA cada 2 refinos:\\n^0000ffEXP adquirida por monstros +1%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Novato]^000000\\n^0000ffEXP adquirida por monstros +5% adicional.^000000\\nSoma dos refinos do escudo + grevas maior ou igual a 15:\\n^0000ffEXP adquirida por monstros +5% adicional.^000000\\nTipo: ^777777Equipamento Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nDefesa: ^7777770^000000\\nPeso: ^7777770^000000\\nN\\u00edveis permitidos: ^77777750 a 99^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24215,
+    "name": "Escudo Sombrio Avançado",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Apesar de ser produzido de puro duralum\\u00ednio, esse escudo possui um v\\u00ednculo arcano com os Sapatos Avan\\u00e7ados. \\u00c9 indicado para aventureiros com muito poder, mas que ainda buscam a perfei\\u00e7\\u00e3o.\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\nA cada 3 refinos:\\n^0000ffEXP adquirida por monstros +1%.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria Avan\\u00e7ada]^000000\\n^0000ffEXP adquirida por monstros +2% adicional.^000000\\nSoma dos refinos do escudo + grevas maior ou igual a 15:\\n^0000ffEXP adquirida por monstros +2% adicional.^000000\\nTipo: ^777777Equipamento Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nDefesa: ^7777770^000000\\nPeso: ^7777770^000000\\nN\\u00edveis permitidos: ^777777100 a 149^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24301,
+    "name": "Escudo Sombrio de Cavaleiro Rúnico",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\nAo usar [Encantar L\\u00e2mina]:\\n^0000ffAtiva um [efeito] por 50 segundos.^000000\\n--------------------------\\n^CD3278Efeito:^000000\\nA cada refino:\\n^0000ffVelocidade de ataque +1%.^000000\\nRefino +7 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +9 ou mais:\\n^0000ffVelocidade de ataque +1 adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Cavaleiro^000000\\n^FA4E09Malha Sombria de Cavaleiro^000000\\n^FA4E09Luva Sombria de Cavaleiro R\\u00fanico^000000\\n^FA4E09Brinco Sombrio de Espadachim^000000\\n^FA4E09Colar Sombrio de Espadachim^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Cavaleiros R\\u00fanicos e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24302,
+    "name": "Escudo Sombrio de Guardião Real",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDano de [Aegis Inferi] +20%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffDano de [Aegis Inferi] +5%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Templ\\u00e1rio^000000\\n^FA4E09Malha Sombria de Templ\\u00e1rio^000000\\n^FA4E09Luva Sombria de Guardi\\u00e3o Real^000000\\n^FA4E09Brinco Sombrio de Espadachim^000000\\n^FA4E09Colar Sombrio de Espadachim^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Guardi\\u00f5es Reais e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24303,
+    "name": "Escudo Sombrio de Mecânico",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDano de [Lan\\u00e7a Chamas] +20%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffDano de [Lan\\u00e7a Chamas] +5%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Ferreiro^000000\\n^FA4E09Malha Sombria de Ferreiro^000000\\n^FA4E09Luva Sombria de Mec\\u00e2nico^000000\\n^FA4E09Brinco Sombrio de Mercador^000000\\n^FA4E09Colar Sombrio de Mercador^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Mec\\u00e2nicos e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24304,
+    "name": "Escudo Sombrio de Bioquímico",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +3%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffDEF +1 para cada n\\u00edvel aprendido de [Propuls\\u00e3o do Carrinho].^000000\\n^0000ffDEF +1 para cada n\\u00edvel aprendido de [Tornado de Carrinho].^000000\\n^0000ffDEF +1 para cada n\\u00edvel aprendido de [Canh\\u00e3o de Pr\\u00f3tons].^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Alquimista^000000\\n^FA4E09Malha Sombria de Alquimista^000000\\n^FA4E09Luva Sombria de Bioqu\\u00edmico^000000\\n^FA4E09Brinco Sombrio de Mercador^000000\\n^FA4E09Colar Sombrio de Mercador^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Bioqu\\u00edmicos e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24305,
+    "name": "Escudo Sombrio de Arcebispo",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDano de [Adoramus] +20%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffDano de [Adoramus] +5%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Sacerdote^000000\\n^FA4E09Malha Sombria de Sacerdote^000000\\n^FA4E09Luva Sombria de Arcebispo^000000\\n^FA4E09Brinco Sombrio de Novi\\u00e7o^000000\\n^FA4E09Colar Sombrio de Novi\\u00e7o^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Arcebispos e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24306,
+    "name": "Escudo Sombrio de Shura",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDano de [Soco Furac\\u00e3o] +20%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffDano de [Soco Furac\\u00e3o] +5%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Monge^000000\\n^FA4E09Malha Sombria de Monge^000000\\n^FA4E09Luva Sombria de Shura^000000\\n^FA4E09Brinco Sombrio de Novi\\u00e7o^000000\\n^FA4E09Colar Sombrio de Novi\\u00e7o^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Shuras e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24307,
+    "name": "Escudo Sombrio de Sicário",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffRecarga de [Garra Sombria] -10 segundos.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffRecarga de [Garra Sombria] -2 segundos.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Mercen\\u00e1rio^000000\\n^FA4E09Malha Sombria de Mercen\\u00e1rio^000000\\n^FA4E09Luva Sombria de Sic\\u00e1rio^000000\\n^FA4E09Brinco Sombrio de Gatuno^000000\\n^FA4E09Colar Sombrio de Gatuno^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Sic\\u00e1rios e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24308,
+    "name": "Escudo Sombrio de Renegado",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\nAo usar [Desejo das Sombras]:\\n^0000ffAtiva um [efeito] por 50 segundos.^000000\\n--------------------------\\n^CD3278Efeito:^000000\\nA cada refino:\\n^0000ffVelocidade de ataque +1%.^000000\\nRefino +7 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +9 ou mais:\\n^0000ffVelocidade de ataque +1 adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Arruaceiro^000000\\n^FA4E09Malha Sombria de Arruaceiro^000000\\n^FA4E09Luva Sombria de Renegado^000000\\n^FA4E09Brinco Sombrio de Gatuno^000000\\n^FA4E09Colar Sombrio de Gatuno^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Renegados e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24309,
+    "name": "Escudo Sombrio de Arcano",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDano de [Abalo S\\u00edsmico] +20%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffDano de [Abalo S\\u00edsmico] +5%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Bruxo^000000\\n^FA4E09Malha Sombria de Bruxo^000000\\n^FA4E09Luva Sombria de Arcano^000000\\n^FA4E09Brinco Sombrio de Mago^000000\\n^FA4E09Colar Sombrio de Mago^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Arcanos e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24310,
+    "name": "Escudo Sombrio de Feiticeiro",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffRecarga de [Castigo de Nerthus] -1 segundo.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffRecarga de [Castigo de Nerthus] -0,3 segundos.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de S\\u00e1bio^000000\\n^FA4E09Malha Sombria de S\\u00e1bio^000000\\n^FA4E09Luva Sombria de Feiticeiro^000000\\n^FA4E09Brinco Sombrio de Mago^000000\\n^FA4E09Colar Sombrio de Mago^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Feiticeiros e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24311,
+    "name": "Escudo Sombrio de Sentinela",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffCusto de SP de [Disparo Certeiro] -20%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffCusto de SP de [Disparo Certeiro] -5%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Ca\\u00e7ador^000000\\n^FA4E09Malha Sombria de Ca\\u00e7ador^000000\\n^FA4E09Luva Sombria de Sentinela^000000\\n^FA4E09Brinco Sombrio de Arqueiro^000000\\n^FA4E09Colar Sombrio de Arqueiro^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Sentinelas e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24312,
+    "name": "Escudo Sombrio de Trovador",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffSP m\\u00e1x. +3%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffDEFM +1 para cada 5 n\\u00edveis aprendidos de [Harmonizar] [Sinfonia dos Ventos] e [Can\\u00e7\\u00e3o de Balder].^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Bardo^000000\\n^FA4E09Malha Sombria de Bardo^000000\\n^FA4E09Luva Sombria de Menestrel^000000\\n^FA4E09Brinco Sombrio de Arqueiro^000000\\n^FA4E09Colar Sombrio de Arqueiro^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Menestr\\u00e9is e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24313,
+    "name": "Escudo Sombrio de Musa",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffSP m\\u00e1x. +3%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffDEFM +1 para cada 5 n\\u00edveis aprendidos de [Ritmo Contagiante] [Serenata ao Luar] e [Balada Sinf\\u00f4nica].^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria de Odalisca^000000\\n^FA4E09Malha Sombria de Odalisca^000000\\n^FA4E09Luva Sombria de Musa^000000\\n^FA4E09Brinco Sombrio de Arqueiro^000000\\n^FA4E09Colar Sombrio de Arqueiro^000000\\n^0000ffTodos os atributos +10.^000000\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Musas e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24314,
+    "name": "Escudo Sombrio de Ninja",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffVelocidade de ataque +1.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffIgnora 4% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffIgnora 10% da DEF e DEFM de monstros normais.^000000\\nRefino +9 ou mais:\\n^0000ffIgnora 10% adicional da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nA cada n\\u00edvel de [Pr\\u00e1tica de Arremesso de Shuriken]:\\n^0000ffATQ +3.^000000\\n--------------------------\\nAo usar [Aura Ninja]:\\n^0000ffAtiva um [efeito] por 50 segundos.^000000\\n--------------------------\\n^CD3278Efeito:^000000\\n^0000ffVelocidade de ataque +1 adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Ninjas e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24315,
+    "name": "Escudo Sombrio de Taekwon",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffATQ da arma +3%.^000000\\n^0000ffDano m\\u00e1gico +3%.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffIgnora 3% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nA cada n\\u00edvel de [Tr\\u00e9gua R\\u00e1pida]:\\n^0000ffIgnora 3% da DEF de monstros normais.^000000\\nA cada n\\u00edvel de [Retiro R\\u00e1pido]:\\n^0000ffIgnora 3% da DEFM de monstros normais.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffATQ da arma +2% adicional.^000000\\n^0000ffDano m\\u00e1gico +2% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffATQ da arma +3% adicional.^000000\\n^0000ffDano m\\u00e1gico +3% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Taekwons e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24316,
+    "name": "Escudo Sombrio de Fauna",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffATQ da arma +3%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffRecarga de [Cometas Lun\\u00e1ticos] -0,2 segundos.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffDano de [Cometas Lun\\u00e1ticos] +5%.^000000\\nRefino +9 ou mais:\\n^0000ffDano de [Cometas Lun\\u00e1ticos] +5% adicional.^000000\\n--------------------------\\nAo usar [Impulso de Arclouse]:\\n^0000ffAtiva um [efeito] por 50 segundos.^000000\\n--------------------------\\n^CD3278Efeito:^000000\\n^0000ffVelocidade de ataque +1.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Malha Sombria de Fauna^000000\\n^FA4E09Greva Sombria de Fauna^000000\\n^FA4E09Luva Sombria de Fauna^000000\\n^0000ffTodos os atributos +7.^000000\\n^0000ffHP e SP m\\u00e1x. +3%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Invocadores e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24317,
+    "name": "Escudo Sombrio de Selva",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDano m\\u00e1gico +3%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffRecarga de [Meteoros de Nepeta] -0,1 segundo.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffDano de [Meteoros de Nepeta] +5%.^000000\\nRefino +9 ou mais:\\n^0000ffDano de [Meteoros de Nepeta] +5% adicional.^000000\\n--------------------------\\nAo usar [Chuva de Mariscos]:\\n^0000ffAtiva um [efeito] por 30 segundos.^000000\\n--------------------------\\n^CD3278Efeito:^000000\\n^0000ffRegenera 5 de SP a cada 5 segundos.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Malha Sombria de Selva^000000\\n^FA4E09Greva Sombria de Selva^000000\\n^FA4E09Luva Sombria de Selva^000000\\n^0000ffTodos os atributos +7.^000000\\n^0000ffHP e SP m\\u00e1x. +3%.^000000\\n^0000ffIgnora 50% da DEF e DEFM de monstros normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Invocadores e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24318,
+    "name": "Escudo Sombrio de Superaprendiz",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +1.000.^000000\\n^0000ffSP m\\u00e1x. +200.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -1%.^000000\\n^0000ffVelocidade de ataque +1%.^000000\\n--------------------------\\nA cada n\\u00edvel de [Ataque Duplo]:\\n^0000ffVelocidade de ataque +2%.^000000\\nA cada n\\u00edvel de [Olhos de \\u00c1guia]:\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -2%.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffATQ da arma +2% adicional.^000000\\n^0000ffDano m\\u00e1gico +2% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffATQ da arma +3% adicional.^000000\\n^0000ffDano m\\u00e1gico +3% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Luva Sombria de Superaprendiz^000000\\n^0000ffTodos os atributos +3.^000000\\n^0000ffHP e SP M\\u00e1x. +2%.^000000\\n^0000ffCusto de SP das habilidades -10%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Aprendizes, Superaprendizes e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24319,
+    "name": "Escudo Sombrio de Justiceiro",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x +10.^000000\\n^0000ffCRIT +1.^000000\\n--------------------------\\n^0000ffDano cr\\u00edtico +5%.^000000\\nRefino +7 ou mais:\\n^0000ffDano cr\\u00edtico +2% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffDano cr\\u00edtico +3% adicional.^000000\\n--------------------------\\nA cada n\\u00edvel de [Ataque Concentrado]:\\n^0000ffCRIT +2.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Malha Sombria de Insurgente^000000\\n^FA4E09Greva Sombria de Insurgente^000000\\n^FA4E09Luva Sombria de Justiceiro^000000\\n^0000ffTodos os atributos +7.^000000\\n^0000ffHP e SP m\\u00e1x. +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Justiceiros e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24327,
+    "name": "Escudo Sombrio da Deusa",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Um escudo impenetr\\u00e1vel que \\u00e9 capaz de parar a mais poderosa das l\\u00e2minas. Ideal para prote\\u00e7\\u00e3o em situa\\u00e7\\u00f5es complicadas.\\n--------------------------\\n^0000ffVIT +1.^000000\\n--------------------------\\nA cada refino:\\n^0000ffDEF +5.^000000\\n^0000ffDEFM +1.^000000\\n^0000ffHP m\\u00e1x. +10.^000000\\n--------------------------\\nEspadachins, Gatunos, Taekwons, Mestres Taekwons e evolu\\u00e7\\u00f5es:\\n^0000ffVelocidade de ataque +1.^000000\\n--------------------------\\nMagos, Novi\\u00e7os, Ninjas, Espiritualistas e evolu\\u00e7\\u00f5es:\\n^0000ffSP m\\u00e1x. +2%.^000000\\n^0000ffEfetividade de cura +3%.^000000\\n--------------------------\\nMercadores, Arqueiros, Justiceiros e evolu\\u00e7\\u00f5es\\n^0000ffEsquiva +15.^000000\\n--------------------------\\nAprendizes, Superaprendizes, Invocadores e evolu\\u00e7\\u00f5es\\n^0000ffSP m\\u00e1x. +300.^000000\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -5%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24366,
+    "name": "Escudo Sombrio Medicinal",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffATQM +10.^000000\\nRefino +7 ou mais:\\n^0000ffEfetividade de cura +3%.^000000\\nRefino +9 ou mais:\\n^0000ffEfetividade de cura +5% adicional.^000000\\n--------------------------\\nTipo: ^777777Equipamento Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nDefesa: ^7777770^000000\\nPeso: ^7777770^000000\\nNv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24616,
+    "name": "Escudo Sombrio de Super Magia",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffDano m\\u00e1gico de propriedade Neutro, \\u00c1gua, Vento, Terra e Fogo +5%.^000000\\nRefino +7 ou mais:\\n^0000ffDano m\\u00e1gico de propriedade Neutro, \\u00c1gua, Vento, Terra e Fogo +5% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffHabilita [Campo Gravitacional] no mesmo n\\u00edvel aprendido de [Esfera d\\u2019\\u00c1gua].^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Luva Sombria de Superaprendiz^000000\\n^0000ffIgnora 40% da DEFM de todas as ra\\u00e7as de monstros.^000000\\nA cada refino de cada pe\\u00e7a do conjunto:\\n^0000ffIgnora +1% da DEFM.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Aprendizes, Superaprendizes e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24683,
+    "name": "Escudo Sombrio de EXP",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\nA cada 2 refinos:\\n^0000ffEXP adquirida ao derrotar monstros +1%.^000000\\nRefino +10 ou mais:\\n^0000ffEXP adquirida ao derrotar monstros +5%.^000000\\n--------------------------\\n^0000ffEXP adquirida ao derrotar monstros +20%.^000000\\nNv. base 170 ou mais:\\n^0000ffEXP adquirida ao derrotar monstros^000000 ^ff0000-10%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 27029,
+    "name": "Carta Golem de Fogo",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade Fogo +20%.^000000\\n^0000ffDano f\\u00edsico contra oponentes de propriedade Fogo +5%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27119,
+    "name": "Carta Marechal Tartaruga",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +30. DEFM +5.^000000\\n^0000ffResist\\u00eancia a todos os Tamanhos +25%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta General Tartaruga]^000000\\n^0000ffPrecis\\u00e3o +25.^000000\\n^0000ffDano f\\u00edsico contra todos os Tamanhos +20%.^000000\\n^0000ffResist\\u00eancia a todos os Tamanhos +5% adicional.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27158,
+    "name": "Carta Les",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade Vento +30%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27178,
+    "name": "Carta Gaster",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "Resist\\u00eancia a monstros chefes -50%.\\nResist\\u00eancia a monstros normais +25%.\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27212,
+    "name": "Carta Maya Selada",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ff15% de chance de refletir magias de alvo \\u00fanico recebidas.^000000\\nRefino +15 ou mais:\\n^0000ffChance de reflex\\u00e3o +15% adicional.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27264,
+    "name": "Carta Sombras das Trevas",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia f\\u00edsica a oponentes de propriedade Maldito e Sombrio +30%.^000000\\n^0000ffResist\\u00eancia f\\u00edsica a oponentes de propriedade Fogo e Sagrado^000000 ^ff0000-30%.^000000\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27325,
+    "name": "Carta Skoll",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a oponentes de propriedade Fogo +30%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Brinaranha]^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra oponentes de propriedade Fogo +10%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 28900,
+    "name": "Égide da Realeza [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo oficial dos Guardi\\u00f5es Reais do Reino de Rune-Midgard.\\n--------------------------\\n^0000ffHabilita [Aegis Domini] nv. 1.^000000\\n--------------------------\\nAo receber danos f\\u00edsicos de curta dist\\u00e2ncia:\\n^0000ff0,5% de chance de autoconjurar [Assumptio] nv. 3.^000000\\n--------------------------\\nA cada refino:\\n^0000ffDEF +10. DEFM +1.^000000\\n^0000ff+0,3% de chance de autoconjurar [Assumptio].^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777730^000000 DEFM: ^7777770^000000\\nPeso: ^777777300^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28901,
+    "name": "Coelho Macabro",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "O macabro coelhinho de Piamette que serve como escudo de mentirinha at\\u00e9 para os mais iniciantes. A apar\\u00eancia meio esquisita e remendada mostra que a pr\\u00f3pria Piamette o confeccionou; mas ela colocou tanto enchimento que ele ficou enorme, quase do tamanho dela. E se as manchas vermelhas s\\u00e3o sangue ou n\\u00e3o, \\u00e9 melhor nem saber.\\n--------------------------\\n^0000ffDano m\\u00e1gico +5%.^000000\\n^0000ffDano f\\u00edsico contra todas as ra\\u00e7as +5%.^000000\\n--------------------------\\n^0000ffVelocidade de ataque +3.^000000\\n^0000ffReflete 10% dos danos f\\u00edsicos recebidos.^000000\\n--------------------------\\nAo receber danos m\\u00e1gicos:\\n^0000ff10% de chance de autoconjurar [Reflex\\u00e3o M\\u00e1gica] nv.8.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffATQ e ATQM +5.^000000\\nRefino +9 ou mais:\\n^0000ffATQ e ATQM +15 adicional.^000000\\nRefino +12 ou mais:\\n^0000ffCRIT +10.^000000\\n^0000ffA conjura\\u00e7\\u00e3o n\\u00e3o pode ser interrompida.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^7777770^000000 DEFM: ^7777770^000000\\nPeso: ^77777710^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28902,
+    "name": "Coelho Macabro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "O macabro coelhinho de Piamette que serve como escudo de mentirinha at\\u00e9 para os mais iniciantes. A apar\\u00eancia meio esquisita e remendada mostra que a pr\\u00f3pria Piamette o confeccionou; mas ela colocou tanto enchimento que ele ficou enorme, quase do tamanho dela. E se as manchas vermelhas s\\u00e3o sangue ou n\\u00e3o, \\u00e9 melhor nem saber.\\n--------------------------\\n^0000ffDano m\\u00e1gico +5%.^000000\\n^0000ffDano f\\u00edsico contra todas as ra\\u00e7as +5%.^000000\\n^0000ffReflete 10% dos danos f\\u00edsicos recebidos.^000000\\n--------------------------\\nAo receber danos m\\u00e1gicos:\\n^0000ff10% de chance de autoconjurar [Reflex\\u00e3o M\\u00e1gica] nv.8.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffATQ e ATQM +5.^000000\\nRefino +9 ou mais:\\n^0000ffATQ e ATQM +15 adicional.^000000\\nRefino +12 ou mais:\\n^0000ffCRIT +10.^000000\\n^0000ffA conjura\\u00e7\\u00e3o n\\u00e3o pode ser interrompida.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^7777770^000000 DEFM: ^7777770^000000\\nPeso: ^77777710^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28906,
+    "name": "Escudo do Fogo [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo que representa o elemento Fogo. Foi forjado em alt\\u00edssima temperatura.\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade Fogo +25%.^000000\\n--------------------------\\nRefino +5 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +7 ou mais:\\n^0000ffVelocidade de ataque +1 adicional.^000000\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09[Bracelete Suntuoso]^000000\\n^0000ffDano f\\u00edsico a dist\\u00e2ncia +20%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28907,
+    "name": "Escudo do Vento [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo que representa o elemento Vento. Ap\\u00f3s a forja, foi resfriado com o sopro dos quatro ventos.\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade Vento +25%.^000000\\n--------------------------\\nRefino +5 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +7 ou mais:\\n^0000ffVelocidade de ataque +1 adicional.^000000\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09[Bracelete Suntuoso]^000000\\n^0000ffAumenta a velocidade de movimento.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28908,
+    "name": "Escudo da Água [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo que representa o elemento \\u00c1gua. Ap\\u00f3s a forja, foi resfriado com as \\u00e1guas mais geladas de Rune-Midgard.\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade \\u00c1gua +25%.^000000\\n--------------------------\\nRefino +5 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +7 ou mais:\\n^0000ffVelocidade de ataque +1 adicional.^000000\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09[Bracelete Suntuoso]^000000\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -20%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28909,
+    "name": "Escudo da Terra [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo que representa o elemento Terra. Foi forjado com materiais encontrados nos solos mais ricos de Rune-Midgard.\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade Terra +25%.^000000\\n--------------------------\\nRefino +5 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +7 ou mais:\\n^0000ffVelocidade de ataque +1 adicional.^000000\\n--------------------------\\n^fa4e09Conjunto^000000\\n^fa4e09[Bracelete Suntuoso]^000000\\n^0000ffSP m\\u00e1x. +20%.^000000\\n^0000ffCusto de SP das habilidades -20%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28910,
+    "name": "Escudo de Placas Samurai [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo desenvolvido por lend\\u00e1rios guerreiros espadachins de Amatsu especialmente para combater arqueiros e oponentes que atacam de longe. Dizem que entre suas placas s\\u00e3o colocadas pequenas tiras de uma madeira especial, cujo odor \\u00e9 muito apreciado por Besouros-Chifres, animais apreciados pela cultura local da Ilha-Na\\u00e7\\u00e3o.\\n^0000ffResist\\u00eancia a danos f\\u00edsicos a dist\\u00e2ncia +5%.^000000\\nRefino +5 ou mais:\\n^0000ffResist\\u00eancia a danos f\\u00edsicos a dist\\u00e2ncia +5% adicional.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a danos f\\u00edsicos a dist\\u00e2ncia +10% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a danos f\\u00edsicos a dist\\u00e2ncia +15% adicional.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Besouro-Chifre]^000000\\n^0000ffAnula o efeito da Carta Besouro-Chifre.^000000\\nTipo: ^777777Escudo ^000000\\nDEF: ^77777780^000000 DEFM: ^7777770^000000\\nPeso: ^77777780^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28912,
+    "name": "Escudo Higiênico [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Este estranho escudo na verdade \\u00e9 um rolo de papel higi\\u00eanico encantado. Ele foi criado por um jovem Bruxo chamado Ferdinando Bosques ap\\u00f3s sua primeira participa\\u00e7\\u00e3o na Guerra do Emperium, onde a maioria dos inimigos estava equipada com Chap\\u00e9us Fedorentos. A vis\\u00e3o de tantos Fedorentos foi meio traum\\u00e1tica para Bosques, que tinha mania de limpeza, por isso ele se empenhou em criar esse novo tipo de prote\\u00e7\\u00e3o.\\n^0000ffResist\\u00eancia a propriedade Sagrado +20%.^000000\\nAo realizar ataques m\\u00e1gicos:\\n^0000ff5% de chance de ativar um [efeito] por 3 segundos.^000000\\nA cada 2 refinos:\\n^0000ffResist\\u00eancia a propriedade Sagrado +2%.^000000\\nA partir do refino +5:\\n^0000ffDura\\u00e7\\u00e3o do [efeito] +1 segundo por refino.^000000\\n^FA4E09Efeito:^000000\\n^0000ffDano m\\u00e1gico de propriedade Sagrado +10%.^000000\\nTipo: ^777777Escudo^000000\\nDEF: ^7777770^000000 DEFM: ^7777770^000000\\nPeso: ^7777771^000000\\nN\\u00edvel necess\\u00e1rio: ^777777130^000000\\nClasses: ^777777Magos, Novi\\u00e7os e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 28913,
+    "name": "Escudo de Davi [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo m\\u00e1gico e extremamente leve.\\nA estrela na frente foi esculpida pelo pr\\u00f3prio dono.\\n--------------------------\\n^0000ffIgnora 10% da DEF de monstros normais.^000000\\n--------------------------\\n^0000ffVelocidade de ataque +5%.^000000\\n^0000ffResist\\u00eancia a propriedade Neutro +5%.^000000\\nRefino +7 ou mais:\\n^0000ffVelocidade de ataque +2% adicional.^000000\\n^0000ffResist\\u00eancia a propriedade Neutro +2% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffVelocidade de ataque +3% adicional.^000000\\n^0000ffResist\\u00eancia a propriedade Neutro +3% adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777750^000000 DEFM: ^7777770^000000\\nPeso: ^77777710^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28921,
+    "name": "Escudo de Anemos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Ap\\u00f3s sua forja, esse imponente escudo foi resfriado pelos ventos mais gelados j\\u00e1 testemunhados em Rune-Midgard.\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade Vento +10%.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra oponentes de propriedade Vento +5%.^000000\\n--------------------------\\nRefino +8 ou mais:\\n^0000ffResist\\u00eancia a propriedade Vento +15% adicional.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra oponentes de propriedade Vento +10% adicional.^000000\\n--------------------------\\nRefino +10 ou mais:\\n-\\nFOR base 90 ou mais:\\n^0000ffATQ +50.^000000\\nAGI base 90 ou mais:\\n^0000ffVelocidade de ataque +5%.^000000\\nVIT base 90 ou mais:\\n^0000ffCura recebida +10%.^000000\\nINT base 90 ou mais:\\n^0000ffATQM +30.^000000\\nDES base 90 ou mais:\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -5%.^000000\\nSOR base 90 ou mais:\\n^0000ffDano cr\\u00edtico +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777150^000000 DEFM: ^77777715^000000\\nPeso: ^777777350^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28922,
+    "name": "Sancti Ilusional [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Personifica\\u00e7\\u00e3o do terceiro membro da sant\\u00edssima trindade, citada no livro das revela\\u00e7\\u00f5es. Apenas os soldados da divina provid\\u00eancia podem empunh\\u00e1-lo.\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^0000ffINT +2. VIT +3.^000000\\n--------------------------\\nA cada refino:\\n^0000ffDano de [Aegis Inferi] +7%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777190^000000 DEFM: ^7777773^000000\\nPeso: ^777777160^000000\\nN\\u00edvel necess\\u00e1rio: ^777777120^000000\\nClasses: ^777777Guardi\\u00f5es Reais e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 28927,
+    "name": "Égide da Nobreza [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Quando mais nenhuma defesa funcionava, os guardi\\u00f5es de Prontera se apoiavam nesse espesso escudo. Eles eram aben\\u00e7oados por poderes divinos toda vez que iam \\u00e0 luta com essa \\u00c9gide e o Gl\\u00e1dio da Nobreza.\\nRefino +7 ou mais:\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra a ra\\u00e7a Morto-Vivo +15%.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra a propriedade Sombrio +15%.^000000\\nRefino +9 ou mais:\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra a ra\\u00e7a Morto-Vivo +15% adicional.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra a propriedade Sombrio +15% adicional.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Gl\\u00e1dio da Nobreza]^000000\\nA cada refino do Escudo:\\n^0000ffDano de [Golpe Fulminante] [Crux Magnun] e [Crux Divinum] +20%.^000000\\nTipo: ^777777Escudo^000000\\nDEF: ^777777150^000000 DEFM: ^77777710^000000\\nPeso: ^777777250^000000\\nN\\u00edvel necess\\u00e1rio: ^777777130^000000\\nClasses: ^777777Guardi\\u00f5es Reais^000000"
+  },
+  {
+    "id": 28929,
+    "name": "Escudo Adornado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Pedras preciosas decoram um dos escudos mais valiosos de todos os reinos. Quem equip\\u00e1-lo ser\\u00e1 reconhecido por onde andar.\\n--------------------------\\n^FA4E09Efeito do conjunto de carta:^000000\\n^0000ffEXP adquirida ao derrotar monstros da ra\\u00e7a^000000 ^CD3278X^000000 ^0000ff+5%.^000000\\nRefino +8 ou mais:\\n^0000ffEXP adquirida ao derrotar monstros da ra\\u00e7a^000000 ^CD3278X^000000 ^0000ff+5% adicional.^000000\\nRefino +11 ou mais:\\n^0000ffEXP adquirida ao derrotar monstros da ra\\u00e7a^000000 ^CD3278X^000000 ^0000ff+5% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Anubis]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Anjo.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta P\\u00e9 Grande]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Inseto.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Penomena]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Amorfo.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Khalitzburg]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Dem\\u00f4nio.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Ursinho]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Morto-Vivo.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Sapo de Thara]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Humanoide.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Rafflesia]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Peixe.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Rafflesia Anoldi]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Planta.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Petite Voador]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Drag\\u00e3o.^000000\\n^FA4E09Conjunto^000000\\n^FA4E09[Carta Guerreiro Orc]^000000\\n^CD3278X^000000 ^0000ff= ra\\u00e7a Bruto.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Livros da Sabedoria]^000000\\n ^0000ffDrena 30 de HP do usu\\u00e1rio a cada 5 segundos.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777150^000000 DEFM: ^77777710^000000\\nPeso: ^777777350^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28933,
+    "name": "Escudo de Ferro [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um maci\\u00e7o escudo de ferro usado pela primeira vez pelo templ\\u00e1rio Tony Rogers. \\u00c9 t\\u00e3o pesado que ningu\\u00e9m vai conseguir te mover enquanto estiver segurando isso. Espera... como VOC\\u00ca consegue andar segurando essa coisa? \\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n^0000ffVelocidade de ataque -3%.^000000\\nRefino +10 ou mais:\\n^0000ffImpede o usu\\u00e1rio de ser empurrado.^000000\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777770^000000\\nPeso: ^777777280^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28940,
+    "name": "Escudo das Divindades [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "O toque divino encantou este escudo, e aquele que o utilizar ser\\u00e1 um indiv\\u00edduo intoc\\u00e1vel por muitos males.\\n--------------------------\\n^0000ffEfetividade de cura +10%.^000000\\nA cada refino:\\n^0000ffEfetividade de cura +1%.^000000\\n--------------------------\\nRefino +8 ou mais:\\n^0000ffHabilita [Curar] nv.1.^000000\\nRefino +10 ou mais:\\n^0000ffToler\\u00e2ncia a Sangramento +100%.^000000\\nRefino +13 ou mais:\\n^0000ffToler\\u00e2ncia a Petrifica\\u00e7\\u00e3o +100%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777150^000000 DEFM: ^7777770^000000\\nPeso: ^777777120^000000\\nN\\u00edvel necess\\u00e1rio: ^77777799^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28941,
+    "name": "Escudo E.X.C [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo de excel\\u00eancia criado pela extinta tecnologia das ru\\u00ednas de Verus. \\n--------------------------\\n^0000ffHP e SP m\\u00e1x. +1%.^000000\\n--------------------------\\nA cada 3 refinos:\\n^0000ffHP e SP m\\u00e1x. +1%.^000000\\n--------------------------\\nNv. base 130 ou mais:\\n^0000ffHP e SP m\\u00e1x. +1% adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777795^000000 DEFM: ^7777775^000000\\nPeso: ^777777120^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28942,
+    "name": "Escudo Sanguinário [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo gigante usado pelo Cavaleiro Sanguin\\u00e1rio.\\n\\u00c9 imposs\\u00edvel limpar as manchas de sangue.\\n--------------------------\\n^0000ffATQ da arma +3%.^000000\\n^0000ffDano m\\u00e1gico +3%.^000000\\n^0000ffVelocidade de ataque +10%.^000000\\n^0000ffResist\\u00eancia a oponentes de todas as propriedades +7%.^000000\\n--------------------------\\nAo receber danos f\\u00edsicos ou m\\u00e1gicos:\\n^0000ff1% de chance de ativar o [efeito A] por 4 segundos.^000000\\nAo realizar ataques f\\u00edsicos ou m\\u00e1gicos:\\n^0000ff1% de chance de ativar o [efeito B] por 4 segundos.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffATQ e ATQM +10.^000000\\nRefino +9 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +12 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -3%.^000000\\n--------------------------\\n^CD3278Efeito A:^000000\\n^0000ffRecupera 25 de SP por segundo.^000000\\n--------------------------\\n^CD3278Efeito B:^000000\\n^0000ffRecupera 150 de HP por segundo.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^7777770^000000 DEFM: ^7777770^000000\\nPeso: ^77777780^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28943,
+    "name": "Grimório Proibido [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um grim\\u00f3rio de magia go\\u00e9cia contendo nomes de v\\u00e1rios esp\\u00edritos e os rituais para invoc\\u00e1-los.\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade Fogo, \\u00c1gua, Vento e Terra +7%.^000000\\n--------------------------\\nA cada n\\u00edvel de [Invocar Agni]:\\n^0000ffINT +3.^000000\\nA cada n\\u00edvel de [Invocar Varuna]:\\n^0000ffDES +3.^000000\\nA cada n\\u00edvel de [Invocar Vayu]:\\n^0000ffAGI +3.^000000\\nA cada n\\u00edvel de [Invocar Chandra]:\\n^0000ffVIT +3.^000000\\n--------------------------\\nA cada n\\u00edvel de [Empatia Elemental]:\\n^0000ffHP e SP m\\u00e1x. +2%.^000000\\n--------------------------\\nRefino +9 ou mais:\\n^0000ffDEF +50.^000000\\n^0000ffDEFM +5.^000000\\n^0000ffToler\\u00e2ncia a [Ex\\u00edlio] de outros jogadores +30%.^000000\\nRefino +12 ou mais:\\n^0000ffDEF +150 adicional.^000000\\n^0000ffDEFM +10 adicional.^000000\\n^0000ffToler\\u00e2ncia a [Ex\\u00edlio] de outros jogadores +30% adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777720^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^777777130^000000\\nClasses: ^777777Feiticeiros e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 28944,
+    "name": "Escudo de Sleiporing [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um antigo escudo que pertenceu a uma cl\\u00e1ssica ordem de guerreiros, os Legion\\u00e1rios de Sleiporing. A forma\\u00e7\\u00e3o tartaruga, utilizada com estes escudos, recebeu seu nome devido ao \\u00e1rduo treinamento dos soldados na ilha das tartarugas.\\n^0000ffEsquiva +5.^000000\\n^0000ffEsquiva perfeita +1.^000000\\nA cada 4 refinos:\\n^0000ffEsquiva perfeita +2.^000000\\nRefino +12 ou mais:\\n^0000ffHP e SP m\\u00e1x. +10%.^000000\\nTipo: ^777777Escudo^000000\\nDefesa: ^7777771^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777710^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28945,
+    "name": "Sanguinário Maldito [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo gigante usado pelo Cavaleiro Sanguin\\u00e1rio.\\nEmana uma energia maligna.\\n--------------------------\\n^0000ffATQ da arma +3%.^000000\\n^0000ffDano m\\u00e1gico +3%.^000000\\n^0000ffVelocidade de ataque +10%.^000000\\n^0000ffResist\\u00eancia a oponentes de todas as propriedades +7%.^000000\\n--------------------------\\nAo receber danos f\\u00edsicos ou m\\u00e1gicos:\\n^0000ff1% de chance de ativar o [efeito A] por 4 segundos.^000000\\nAo realizar ataques f\\u00edsicos ou m\\u00e1gicos:\\n^0000ff1% de chance de ativar o [efeito B] por 4 segundos.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffATQ e ATQM +10.^000000\\nRefino +9 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +12 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -3%.^000000\\n--------------------------\\n^CD3278Efeito A:^000000\\n^0000ffRecupera 25 de SP por segundo.^000000\\n--------------------------\\n^CD3278Efeito B:^000000\\n^0000ffRecupera 150 de HP por segundo.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^7777770^000000 DEFM: ^7777770^000000\\nPeso: ^77777780^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28946,
+    "name": "Sanguinário Purificado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo gigante usado pelo Cavaleiro Sanguin\\u00e1rio.\\nN\\u00e3o \\u00e9 comum encontr\\u00e1-lo limpo.\\n--------------------------\\n^0000ffATQ da arma +5%.^000000\\n^0000ffDano m\\u00e1gico +5%.^000000\\n^0000ffVelocidade de ataque +10%.^000000\\n^0000ffResist\\u00eancia a oponentes de todas as propriedades +10%.^000000\\n--------------------------\\nAo receber danos f\\u00edsicos ou m\\u00e1gicos:\\n^0000ff3% de chance de ativar o [efeito A] por 6 segundos.^000000\\nAo realizar ataques f\\u00edsicos ou m\\u00e1gicos:\\n^0000ff3% de chance de ativar o [efeito B] por 6 segundos.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffATQ e ATQM +20.^000000\\nRefino +9 ou mais:\\n^0000ffVelocidade de ataque +2.^000000\\nRefino +12 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -5%.^000000\\n--------------------------\\n^CD3278Efeito A:^000000\\n^0000ffRecupera 50 de SP por segundo.^000000\\n--------------------------\\n^CD3278Efeito B:^000000\\n^0000ffRecupera 300 de HP por segundo.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^7777770^000000 DEFM: ^7777770^000000\\nPeso: ^77777780^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28947,
+    "name": "Escudo de Gaia [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Com a prote\\u00e7\\u00e3o da deusa de uma antiga civiliza\\u00e7\\u00e3o, todo o poder de Terra ser\\u00e1 in\\u00fatil contra voc\\u00ea.\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade Terra +10%.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra oponentes de propriedade Terra +5%.^000000\\n--------------------------\\nRefino +8 ou mais:\\n^0000ffResist\\u00eancia a propriedade Terra +15% adicional.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra oponentes de propriedade Terra +10% adicional.^000000\\n--------------------------\\nRefino +10 ou mais:\\n-\\nFOR base 90 ou mais:\\n^0000ffATQ +50.^000000\\nAGI base 90 ou mais:\\n^0000ffVelocidade de ataque +5%.^000000\\nVIT base 90 ou mais:\\n^0000ffCura recebida +10%.^000000\\nINT base 90 ou mais:\\n^0000ffATQM +30.^000000\\nDES base 90 ou mais:\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -5%.^000000\\nSOR base 90 ou mais:\\n^0000ffDano cr\\u00edtico +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777120^000000 DEFM: ^77777710^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28951,
+    "name": "Escudo de Nero [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo resiliente que ganhou um forte encantamento ap\\u00f3s ser mergulhado em \\u00e1guas m\\u00e1gicas.\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade \\u00c1gua +10%.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra oponentes de propriedade \\u00c1gua +5%.^000000\\n--------------------------\\nRefino +8 ou mais:\\n^0000ffResist\\u00eancia a propriedade \\u00c1gua +15% adicional.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra oponentes de propriedade \\u00c1gua +10% adicional.^000000\\n--------------------------\\nRefino +10 ou mais:\\n-\\nFOR base 90 ou mais:\\n^0000ffATQ +50.^000000\\nAGI base 90 ou mais:\\n^0000ffVelocidade de ataque +5%.^000000\\nVIT base 90 ou mais:\\n^0000ffCura recebida +10%.^000000\\nINT base 90 ou mais:\\n^0000ffATQM +30.^000000\\nDES base 90 ou mais:\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -5%.^000000\\nSOR base 90 ou mais:\\n^0000ffDano cr\\u00edtico +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28953,
+    "name": "Escudo Encouraçado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo usado por um guerreiro solit\\u00e1rio, que vagava por reinos subterr\\u00e2neos em busca de fragmentos e respostas de um passado perdido.\\n--------------------------\\nA cada 3 refinos:\\n^0000ffResist\\u00eancia a oponentes de todos os Tamanhos +2%.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffHP e SP m\\u00e1x. +5%.^000000\\nRefino +9 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +12 ou mais:\\n^0000ffReflete 1% dos danos f\\u00edsicos recebidos.^000000\\n^0000ffAo realizar ataques m\\u00e1gicos, 5% de chance de ativar um [efeito] por 4 segundos.^000000\\n--------------------------\\n^CD3278Efeito:^000000\\n^0000ffRegenera 100 de HP por segundo.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777770^000000\\nPeso: ^7777770^000000\\nN\\u00edvel necess\\u00e1rio: ^777777150^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28955,
+    "name": "Escudo de Fotia [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Forjado sobre as brasas de ardor eterno, este escudo \\u00e9 uma verdadeira muralha que resiste mesmo quando colocado contra chamas de fulgor inigual\\u00e1vel.\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade Fogo +10%.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra oponentes de propriedade Fogo +5%.^000000\\n--------------------------\\nRefino +8 ou mais:\\n^0000ffResist\\u00eancia a propriedade Fogo +15% adicional.^000000\\n^0000ffDano f\\u00edsico e m\\u00e1gico contra oponentes de propriedade Fogo +10% adicional.^000000\\n--------------------------\\nRefino +10 ou mais:\\n-\\nFOR base 90 ou mais:\\n^0000ffATQ +50.^000000\\nAGI base 90 ou mais:\\n^0000ffVelocidade de ataque +5%.^000000\\nVIT base 90 ou mais:\\n^0000ffCura recebida +10%.^000000\\nINT base 90 ou mais:\\n^0000ffATQM +30.^000000\\nDES base 90 ou mais:\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -5%.^000000\\nSOR base 90 ou mais:\\n^0000ffDano cr\\u00edtico +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777120^000000 DEFM: ^77777710^000000\\nPeso: ^777777100^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28956,
+    "name": "Espelho da Bruxa [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Usado em rituais de invoca\\u00e7\\u00e3o, o espelho da bruxa Jiranto tamb\\u00e9m garante prote\\u00e7\\u00e3o espiritual.\\n--------------------------\\n^0000ffResist\\u00eancia as propriedades Fogo, Vento, Fantasma e Sagrado +20%.^000000\\n--------------------------\\nA cada n\\u00edvel de [F\\u00e9]:\\n^0000ffResist\\u00eancia a propriedade Sagrado^000000 ^ff0000-2%^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Vestido da Bruxa]^000000\\n^0000ffDano m\\u00e1gico +5%.^000000\\n^0000ffIgnora 25% da DEFM dos monstros Chefes.^000000\\nArmadura com refino +8 ou mais:\\n^0000ffDano m\\u00e1gico +5% adicional.^000000\\n^0000ffIgnora +25% adicional da DEFM dos monstros Chefes.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Manto da Bruxa]^000000\\n^0000ffDano m\\u00e1gico +5%.^000000\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -5%.^000000\\nEscudo com refino +8 ou mais:\\n^0000ffEsquiva perfeita +20.^000000\\n^0000ffDano m\\u00e1gico +5% adicional.^000000\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -5% adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777780^000000 DEFM: ^7777775^000000\\nPeso: ^77777750^000000\\nN\\u00edvel necess\\u00e1rio: ^77777765^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28962,
+    "name": "Escudo Divino",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Escudo sagrado que protege o portador de todos os males vindos de criaturas que almejam o caos e a destrui\\u00e7\\u00e3o.\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a propriedade Neutro +10%.^000000\\n^0000ffResist\\u00eancia a oponentes de todos os Tamanhos +30%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Super FOR]^000000\\n^0000ffDano f\\u00edsico +15%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Super AGI]^000000\\n^0000ffVelocidade de ataque +15%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Super VIT]^000000\\n^0000ffHP e SP m\\u00e1x. +15%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Super INT]^000000\\n^0000ffDano m\\u00e1gico +15%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Super DES]^000000\\n^0000ffDano f\\u00edsico a dist\\u00e2ncia +15%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Super SOR]^000000\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -15%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777100^000000 DEFM: ^77777710^000000\\nPeso: ^77777760^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 460000,
+    "name": "Égide das Divindades [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Absorva os males e converta-os em divindades. A \\u00e9gide \\u00e9 impenetr\\u00e1vel e implac\\u00e1vel!\\n--------------------------\\n^0000ffEfetividade de cura +15%.^000000\\nA cada refino:\\n^0000ffEfetividade de cura +2%.^000000\\n--------------------------\\nRefino +8 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -10%.^000000\\n^0000ffHabilita [Curar] nv.10.^000000\\nRefino +10 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -10% adicional.^000000\\n^0000ffToler\\u00e2ncia a Petrifica\\u00e7\\u00e3o e Sangramento +100%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777150^000000 DEFM: ^7777770^000000\\nPeso: ^777777120^000000\\nN\\u00edvel necess\\u00e1rio: ^77777799^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 460003,
+    "name": "Escudo de Penas [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "O escudo de penas foge na hora de te proteger. S\\u00e9rio, ele bate asas e sai voando para longe do perigo bem antes de parar o golpe inimigo...\\n--------------------------\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -4%.^000000\\n^0000ffVelocidade de ataque +4%.^000000\\nRefino +7 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -4% adicional.^000000\\n^0000ffVelocidade de ataque +4% adicional.^000000\\nRefino +8 ou mais:\\n^0000ffATQ e ATQM +50.^000000\\nRefino +9 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -4% adicional.^000000\\n^0000ffVelocidade de ataque +4% adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777150^000000 DEFM: ^7777770^000000\\nPeso: ^77777740^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 460004,
+    "name": "Escudo Ilusión A [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Equipamento criado com a tecnologia da Ilusi\\u00f3n, mas que ^ff0000n\\u00e3o^000000 pode ser aprimorado com moduladores.\\n--------------------------\\n^0000ffHP e SP m\\u00e1x. +10%.^000000\\n--------------------------\\nA cada 3 refinos:\\n^0000ffDEF +50 e DEFM +5.^000000\\n--------------------------\\nN\\u00edvel base 170 ou mais:\\n^0000ffResist\\u00eancia a propriedade Neutro +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777795^000000 DEFM: ^7777770^000000\\nPeso: ^777777120^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 460014,
+    "name": "Escudo Ilusión B [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Equipamento criado com a tecnologia da Ilusi\\u00f3n, mas que ^ff0000n\\u00e3o^000000 pode ser aprimorado com moduladores.\\n--------------------------\\n^0000ffHP e SP m\\u00e1x. +10%.^000000\\n--------------------------\\nA cada 3 refinos:\\n^0000ffATQ e ATQM +15.^000000\\n--------------------------\\nN\\u00edvel base 170 ou mais:\\n^0000ffResist\\u00eancia a propriedade Neutro +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777760^000000 DEFM: ^7777770^000000\\nPeso: ^77777740^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 460016,
+    "name": "Escudo de Batalha [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo com tecnologia avan\\u00e7ada para ser usado no campo de batalha. Possui uma intelig\\u00eancia artificial que pode executar algumas opera\\u00e7\\u00f5es matem\\u00e1ticas.\\n--------------------------\\n^0000ffHP e SP m\\u00e1x. +15%.^000000\\nNv. base 175 ou mais:\\n^0000ffHP e SP m\\u00e1x. +15% adicional.^000000\\n--------------------------\\nA cada refino:\\n^0000ffPrecis\\u00e3o perfeita +3.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777760^000000 DEFM: ^7777770^000000\\nPeso: ^77777740^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 460023,
+    "name": "Escudo da Fênix [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "A f\\u00eanix contida neste escudo pode ser a sua melhor amiga nas batalhas. Mas n\\u00e3o se esquece de sempre levar uma vassoura e uma p\\u00e1 pra quando ela resolver virar cinzas...\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^0000ffDano f\\u00edsico corpo a corpo +15%.^000000\\n--------------------------\\nA cada refino at\\u00e9 o +10:\\n^0000ffHP e SP m\\u00e1x. +3%.^000000\\n--------------------------\\nRefino +5 ou mais:\\n^0000ffCura recebida +20%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777170^000000 DEFM: ^77777730^000000\\nPeso: ^777777400^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 460025,
+    "name": "Escudo Alado [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Um escudo com asas pequenas, mas que podem fazer voc\\u00ea voar aos c\\u00e9us!\\n--------------------------\\n^0000ffResist\\u00eancia as ra\\u00e7as Anjo, Humano e Humanoide +5%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777100^000000 DEFM: ^77777710^000000\\nPeso: ^77777760^000000\\nN\\u00edvel necess\\u00e1rio: ^77777790^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24122,
+    "name": "Escudo Sombrio de Curar",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHabilita [Curar] nv.1.^000000\\n--------------------------\\n^0000ffCusto de SP de [Curar]^000000 ^ff0000+50.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffCusto de SP de [Curar] -5.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24128,
+    "name": "Escudo Sombrio do Esconderijo",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHabilita [Esconderijo] nv.1.^000000\\n--------------------------\\n^0000ffCusto de SP de [Esconderijo]^000000 ^ff0000+50.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffCusto de SP de [Esconderijo] -5.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24146,
+    "name": "Escudo Sombrio do Furto",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHabilita [Furto] nv.1.^000000\\n--------------------------\\n^0000ffCusto de SP de [Furto]^000000 ^ff0000+50.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffCusto de SP de [Furto] -5.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24674,
+    "name": "Escudo Sombrio do Mamute",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDEF +5.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\nA cada 2 refinos:\\n^0000ffDEF +1.^000000\\nRefino +9 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24722,
+    "name": "Escudo Sombrio da Autoconjuração",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffATQM +15.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\nA cada 2 refinos:\\n^0000ffATQM +1.^000000\\nRefino +9 ou mais:\\n^0000ffAo realizar ataques f\\u00edsicos corpo a corpo, 7% de chance de autoconjurar [Ataque Espiritual] nv.7.^000000\\nRefino +10 ou mais:\\n^0000ffN\\u00edvel autoconjurado +3.^000000\\n^0000ffChance de autoconjura\\u00e7\\u00e3o +3% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09Greva Sombria da Autoconjura\\u00e7\\u00e3o^000000\\n^FA4E09Malha Sombria da Autoconjura\\u00e7\\u00e3o^000000\\n^0000ffDano m\\u00e1gico +1%.^000000\\nSoma dos refinos 21 ou mais:\\n^0000ffAo realizar ataques f\\u00edsicos corpo a corpo, 4% de chance de autoconjurar [Vulc\\u00e3o Napalm] nv.3.^000000\\nSoma dos refinos 27 ou mais:\\n^0000ffN\\u00edvel autoconjurado +2.^000000\\n^0000ffChance de autoconjura\\u00e7\\u00e3o +4% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24086,
+    "name": "Escudo Sombrio de Joias",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDEF +5.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\nA cada 2 refinos:\\n^0000ffDEF +1.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24090,
+    "name": "Escudo Sombrio da Estabilidade",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDEF +3.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffToler\\u00e2ncia a Cegueira, Sil\\u00eancio, Sono e Petrifica\\u00e7\\u00e3o +1%.^000000\\nA cada 2 refinos:\\n^0000ffToler\\u00e2ncia a Sangramento, Atordoamento, Congelamento e Maldi\\u00e7\\u00e3o +1%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24116,
+    "name": "Escudo Sombrio da Ganância",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHabilita [Gan\\u00e2ncia] nv.1.^000000\\n--------------------------\\n^0000ffCusto de SP de [Gan\\u00e2ncia]^000000 ^ff0000+100.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffCusto de SP de [Gan\\u00e2ncia] -10.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24134,
+    "name": "Escudo Sombrio da Furtividade",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHabilita [Furtividade] nv.1.^000000\\n--------------------------\\n^0000ffCusto de SP de [Furtividade]^000000 ^ff0000+50.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffCusto de SP de [Furtividade] -5.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 27298,
+    "name": "Carta Defensor Wootan",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a monstros Chefes +30%.^000000\\nRefino +10 ou mais:\\n^0000ffResist\\u00eancia a monstros Chefes +20% adicional.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 460015,
+    "name": "Escudo Ilusión C [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Equipamento criado com a tecnologia da Ilusi\\u00f3n em conjunto com a Ordem dos Exploradores, mas que n\\u00e3o pode ser aprimorado com moduladores.\\n--------------------------\\n^0000ffHP e SP m\\u00e1x. +15%.^000000\\nNv. base 175 ou mais:\\n^0000ffHP e SP m\\u00e1x. +15% adicional.^000000\\n--------------------------\\nA cada refino:\\n^0000ffIgnora 5% da DEF e DEFM de todas as ra\\u00e7as.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777795^000000 DEFM: ^7777770^000000\\nPeso: ^777777120^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 460046,
+    "name": "Escudo de Carvão",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Mais leve que outros minerais, esse escudo feito de carv\\u00e3o foi bem trabalhado para n\\u00e3o dar a ideia de que pode ser usado em um churrasco.\\n--------------------------\\n^a400cdIndestrut\\u00edvel em batalha.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a monstros normais e chefes +40%.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP e SP m\\u00e1x. +1%.^000000\\n--------------------------\\nRefino +11 ou mais:\\n^0000ffResist\\u00eancia as propriedades Sagrado e Fantasma +20%.^000000\\nRefino +13 ou mais:\\n^0000ffO usu\\u00e1rio n\\u00e3o pode ser empurrado.^000000\\n--------------------------\\nAo aprender [F\\u00e9] nv.1:\\n^0000ffResist\\u00eancia a propriedade Sagrado^000000 ^ff0000-20%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777760^000000 DEFM: ^7777770^000000\\nPeso: ^77777730^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24083,
+    "name": "Escudo Sombrio Cabal",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffRegen. de HP +5%.^000000\\nRefino +7 ou mais:\\n^0000ffRegen. de HP +5% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 27336,
+    "name": "Carta Sorrateiro Caótico",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia as ra\\u00e7as Bruto e Doram +15%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Veneno +15%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27337,
+    "name": "Carta Mosca Caótica",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Inseto +15%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Vento +15%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27341,
+    "name": "Carta Poporing Caótico",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Peixe +15%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade \\u00c1gua +15%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 24394,
+    "name": "Escudo Sombrio Físico",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffHP m\\u00e1x. +200.^000000\\nRefino +7 ou mais:\\n^0000ffHP m\\u00e1x. +2%.^000000\\nRefino +9 ou mais:\\n^0000ffHP m\\u00e1x. +3% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24397,
+    "name": "Escudo Sombrio Mágico",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffSP m\\u00e1x. +100.^000000\\nRefino +7 ou mais:\\n^0000ffSP m\\u00e1x. +2%.^000000\\nRefino +9 ou mais:\\n^0000ffSP m\\u00e1x. +3% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 2198,
+    "name": "Escudo dos Esplêndidos [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo inspirado em uma rosa que brota perto de um Yai.\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffATQM +20.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Cajado dos Espl\\u00eandidos]^000000\\nEscudo com refino +9 ou mais:\\n^0000ffATQM +15 por refino da arma.^000000\\n^0000ffArma com refino +10 ou mais,^000000\\n^0000ffATQM +50 adicional.^000000\\n^0000ffConjura\\u00e7\\u00e3o fixa -10%.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Orelhas de Kardui]^000000\\nRefino +7 ou mais:\\n^0000ffRecarga de [Cometa] -5 segundos.^000000\\nRefino +9 ou mais:\\n^0000ffRecarga de [Cometa] -5 segundos adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777725^000000 DEFM: ^77777710^000000\\nPeso: ^777777100^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 27346,
+    "name": "Carta Muspellskoll",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia as ra\\u00e7as Dem\\u00f4nio, Drag\\u00e3o, Bruto e Doram +30%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27349,
+    "name": "Carta Explosão",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Drag\\u00e3o +15%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Fogo +15%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27353,
+    "name": "Carta Brasa",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffResist\\u00eancia a ra\\u00e7a Dem\\u00f4nio +15%.^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Neutro +15%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 27356,
+    "name": "Carta Gárgula Congelada",
+    "itemTypeId": 6,
+    "itemSubTypeId": 0,
+    "slots": 0,
+    "description": "^0000ffDEF +20.^000000\\n^0000ffResist\\u00eancia ao tamanho Pequeno^000000 ^ff0000-5%.^000000\\n^0000ffResist\\u00eancia aos tamanhos M\\u00e9dio e Grande +25%.^000000\\n--------------------------\\nTipo: ^777777Carta^000000\\nEquipa em: ^777777Escudo^000000\\nPeso: ^7777771^000000"
+  },
+  {
+    "id": 24336,
+    "name": "Escudo Sombrio de Gemas",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffDEF +5.^000000\\n^0000ffCusto de SP das habilidades -2%.^000000\\nRefino +7 ou mais:\\n^0000ffCusto de SP das habilidades -1% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24345,
+    "name": "Escudo Sombrio Tempeste",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffIgnora 5% da DEFM de monstros Normais.^000000\\nA cada 2 refinos:\\n^0000ffIgnora +1% da DEFM de monstros Normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24374,
+    "name": "Escudo Sombrio da Penetração",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffIgnora 5% da DEF de monstros Normais.^000000\\nA cada 2 refinos:\\n^0000ffIgnora +1% da DEF de monstros Normais.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 460050,
+    "name": "Símbolo do Éden [1]",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 1,
+    "description": "Escudo da fada que vigiava os Jardins do \\u00c9den, um s\\u00edmbolo de prote\\u00e7\\u00e3o e fofura.\\n--------------------------\\nA cada refino:\\n^0000ffHP e SP m\\u00e1x. +1%.^000000\\n--------------------------\\nRefino +9 ou mais:\\n^0000ffINT e DES +5.^000000\\nRefino +12 ou mais:\\n^0000ffINT e DES +10 adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Fada do \\u00c9den]^000000\\n^0000ffResist\\u00eancia a propriedade Neutro +10%.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^77777760^000000 DEFM: ^77777715^000000\\nPeso: ^77777740^000000\\nN\\u00edvel necess\\u00e1rio: ^777777100^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24735,
+    "name": "Escudo Sombrio Durável",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDano f\\u00edsico a dist\\u00e2ncia +2%.^000000\\n^0000ffDano f\\u00edsico corpo a corpo +2%.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\nA cada 2 refinos:\\n^0000ffATQ da arma +1%.^000000\\n--------------------------\\nRefino +9 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +10 ou mais:\\n^0000ffDano f\\u00edsico a dist\\u00e2ncia +7% adicional.^000000\\n^0000ffDano f\\u00edsico corpo a corpo +7% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24737,
+    "name": "Escudo Sombrio Pontual",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffDano m\\u00e1gico de todas as propriedades +2%.^000000\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\nA cada 2 refinos:\\n^0000ffDano m\\u00e1gico +1%.^000000\\n--------------------------\\nRefino +9 ou mais:\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -5%.^000000\\nRefino +10 ou mais:\\n^0000ffDano m\\u00e1gico de todas as propriedades +7% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^77777799^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24746,
+    "name": "Escudo Sombrio da Recarga",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -1%.^000000\\nA cada 2 refinos:\\n^0000ffVelocidade de ataque +3%.^000000\\n--------------------------\\nRefino +9 ou mais:\\n^0000ffATQ da arma +3%.^000000\\n^0000ffDano m\\u00e1gico +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 28948,
+    "name": "Escudo Fofinho",
+    "itemTypeId": 2,
+    "itemSubTypeId": 514,
+    "slots": 0,
+    "description": "Na verdade, esse escudo \\u00e9 uma bandeja ondde serviam Leite de Kaluna em Lasagna. Pode ser fr\\u00e1gil, mas \\u00e9 bastante eficiente.\\n--------------------------\\n^0000ffResist\\u00eancia a todos os Tamanhos +15%.^000000\\nRefino +8 ou mais:\\n^0000ffResist\\u00eancia a todos os Tamanhos +10% adicional.^000000\\n--------------------------\\nTipo: ^777777Escudo^000000\\nDEF: ^777777120^000000 DEFM: ^7777775^000000\\nPeso: ^77777710^000000\\nN\\u00edvel necess\\u00e1rio: ^7777771^000000\\nClasses: ^777777Invocadores e evolu\\u00e7\\u00f5es^000000"
+  },
+  {
+    "id": 24244,
+    "name": "Escudo Sombrio da Pós-conjuração",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -1%.^000000\\nRefino +7 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffP\\u00f3s-conjura\\u00e7\\u00e3o -1% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24026,
+    "name": "Escudo Sombrio de Atena",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffDEF +10.^000000\\nRefino +7 ou mais:\\n^0000ffDEF +10 adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24052,
+    "name": "Escudo Sombrio do Açougueiro",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia as ra\\u00e7as Humano e Humanoide +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia as ra\\u00e7as Humano e Humanoide +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia as ra\\u00e7as Humano e Humanoide +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do A\\u00e7ougueiro]^000000\\n^0000ffEXP ao derrotar a ra\\u00e7a Humanoide +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24053,
+    "name": "Escudo Sombrio do Chefe",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a monstros chefes +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a monstros chefes +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a monstros chefes +1% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24054,
+    "name": "Escudo Sombrio do Carniceiro",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia as ra\\u00e7as Bruto e Doram +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia as ra\\u00e7as Bruto e Doram +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia as ra\\u00e7as Bruto e Doram +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Carniceiro]^000000\\n^0000ffEXP ao derrotar a ra\\u00e7a Bruto +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24055,
+    "name": "Escudo Sombrio do Inseticida",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Inseto +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Inseto +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Inseto +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Inseticida]^000000\\n^0000ffEXP ao derrotar a ra\\u00e7a Inseto +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24056,
+    "name": "Escudo Sombrio do Pescador",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Peixe +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Peixe +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Peixe +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Pescador]^000000\\n^0000ffEXP ao derrotar a ra\\u00e7a Peixe +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24057,
+    "name": "Escudo Sombrio do Matador",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Drag\\u00e3o +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Drag\\u00e3o +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Drag\\u00e3o +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Matador]^000000\\n^0000ffEXP ao derrotar a ra\\u00e7a Drag\\u00e3o +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24058,
+    "name": "Escudo Sombrio do Satanista",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Anjo +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Anjo +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Anjo +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Satanista]^000000\\n^0000ffEXP ao derrotar a ra\\u00e7a Anjo +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24059,
+    "name": "Escudo Sombrio do Colecionador",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Amorfo +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Amorfo +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Amorfo +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Colecionador]^000000\\n^0000ffEXP ao derrotar a ra\\u00e7a Amorfo +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24060,
+    "name": "Escudo Sombrio do Exorcista",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Morto-Vivo +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Morto-Vivo +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Morto-Vivo +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Exorcista]^000000\\n^0000ffEXP ao derrotar a ra\\u00e7a Morto-Vivo +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24061,
+    "name": "Escudo Sombrio do Jardineiro",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a ra\\u00e7a Planta +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Planta +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a ra\\u00e7a Planta +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria do Jardineiro]^000000\\n^0000ffEXP ao derrotar a ra\\u00e7a Planta +3%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24113,
+    "name": "Escudo Sombrio do Fluxo",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffCusto de SP das habilidades -1%.^000000\\nRefino +7 ou mais:\\n^0000ffSP m\\u00e1x. +1%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24198,
+    "name": "Escudo Sombrio Neutro",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade Neutro +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Neutro +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Neutro +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Neutra]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Neutro +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24199,
+    "name": "Escudo Sombrio Obscuro",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade Sombrio +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Sombrio +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Sombrio +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Obscura]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Sombrio +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24200,
+    "name": "Escudo Sombrio Aquático",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade \\u00c1gua +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade \\u00c1gua +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade \\u00c1gua +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Aqu\\u00e1tica]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade \\u00c1gua +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24201,
+    "name": "Escudo Sombrio Terrestre",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade Terra +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Terra +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Terra +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Terrestre]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Terra +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24202,
+    "name": "Escudo Sombrio Inflamável",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade Fogo +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Fogo +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Fogo +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Inflam\\u00e1vel]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Fogo +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24203,
+    "name": "Escudo Sombrio Refrescante",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade Vento +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Vento +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Vento +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Refrescante]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Vento +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24204,
+    "name": "Escudo Sombrio Envenenado",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade Veneno +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Veneno +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Veneno +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Envenenada]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Veneno +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24205,
+    "name": "Escudo Sombrio Sagrado",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade Sagrado +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Sagrado +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Sagrado +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Sagrada]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Sagrado +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24206,
+    "name": "Escudo Sombrio Fantasma",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade Fantasma +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Fantasma +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Fantasma +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Fantasma]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Fantasma +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24207,
+    "name": "Escudo Sombrio Maldito",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffResist\\u00eancia a oponentes de propriedade Maldito +1%.^000000\\nRefino +7 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Maldito +1% adicional.^000000\\nRefino +9 ou mais:\\n^0000ffResist\\u00eancia a oponentes de propriedade Maldito +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Malha Sombria Maldita]^000000\\n^0000ffResist\\u00eancia a oponentes de propriedade Maldito +2% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24232,
+    "name": "Escudo Sombrio Repente",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffCRIT +5.^000000\\nA cada 2 refinos:\\n^0000ffCRIT +1.^000000\\nRefino +7 ou mais:\\n^0000ffVelocidade de ataque +1.^000000\\nRefino +9 ou mais:\\n^0000ffVelocidade de ataque +1 adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24241,
+    "name": "Escudo Sombrio Conjurante",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffATQM +5.^000000\\n^0000ffCusto de SP das habilidades -1%.^000000\\nA cada 2 refinos\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -1%.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24332,
+    "name": "Escudo Sombrio Crítico",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP m\\u00e1x. +10 por refino.^000000\\n--------------------------\\n^0000ffCRIT +5.^000000\\nA cada 2 refinos\\n^0000ffCRIT +1.^000000\\nRefino +7 ou mais:\\n^0000ffDano cr\\u00edtico +1%.^000000\\nRefino +9 ou mais:\\n^0000ffDano cr\\u00edtico +1% adicional.^000000\\n--------------------------\\n^FA4E09Conjunto^000000\\n^FA4E09[Greva Sombria Cr\\u00edtica]^000000\\nA cada refino de cada pe\\u00e7a:\\n^0000ffATQ +1.^000000\\nSoma dos refinos do conjunto 15 ou mais:\\n^0000ffDano cr\\u00edtico +1% adicional.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 Nv. m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  },
+  {
+    "id": 24685,
+    "name": "Escudo Sombrio de Absorção",
+    "itemTypeId": 10,
+    "itemSubTypeId": 527,
+    "slots": 0,
+    "description": "Pe\\u00e7a adicional de escudo usada para complementar um escudo convencional.\\n--------------------------\\n^0000ffHP e SP m\\u00e1x. +3%.^000000\\nA cada refino:\\n^0000ffHP m\\u00e1x. +10.^000000\\nA cada 3 refinos:\\n^0000ffATQ da arma +1%.^000000\\n--------------------------\\nRefino +7 ou mais:\\n^0000ffConjura\\u00e7\\u00e3o vari\\u00e1vel -3%.^000000\\nRefino +10 ou mais:\\n^0000ff2% de chance de converter 2% do dano f\\u00edsico causado em HP.^000000\\n^0000ff1% de chance de converter 2% do dano f\\u00edsico causado em SP.^000000\\n--------------------------\\nTipo: ^777777Equip. Sombrio^000000\\nPosi\\u00e7\\u00e3o: ^777777Escudo^000000\\nPeso: ^7777770^000000 N\\u00edvel m\\u00edn.: ^7777771^000000\\nClasses: ^777777Todas^000000"
+  }
+]
