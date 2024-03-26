@@ -30,26 +30,20 @@ def popularClasses():
 
 
 def popularItens():
-    arquivos = ["acessorio.csv", "arma.csv", "calcado.csv",
-                "capa.csv", "cabeca.csv", "escudo.csv", "sombrio.csv"]
-    tipos = [
-        {"id": 1, "nome": "arma"},
-        {"id": 2, "nome": "armadura"},
-        {"id": 10, "nome": "sombrio"}
-    ]
+    arquivos = ["acessorio", "arma", "calcado",
+                "capa", "cabeca", "escudo", "sombrio"]
     for arquivo in arquivos:
-        with open(f"db\\{arquivo}", "r", encoding="utf8") as f:
+        tipo = arquivo
+        with open(f"db\\{arquivo}.csv", "r", encoding="utf8") as f:
             data = csv.reader(f)
             next(f)
             for row in data:
                 try:
                     idItem = row[0]
                     nome = row[1]
-                    tipo = [tipo['nome']
-                            for tipo in tipos if str(row[2]) == str(tipo['id'])][0]
                     descricao = row[5]
                     cur.execute("INSERT INTO itens VALUES (?,?,?,?,?)",
-                                (None, idItem, nome, tipo, descricao))
+                                (None, idItem, nome, descricao, tipo))
                     conexao.commit()
                     print(f"Item {nome} salvo")
                 except Exception as e:
